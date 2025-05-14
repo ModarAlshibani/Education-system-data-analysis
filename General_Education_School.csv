@@ -1,0 +1,1672 @@
+DBN,School Name,School Type,Parent Response Rate,Teacher Response Rate,Student Response Rate,Total Safety and Respect Score,Total Communication Score,Total Engagement Score,Total Academic Expectations Score
+dbn,locationname,NA,rr_p,rr_t,rr_s,saf_tot_12,com_tot_12,eng_tot_12,aca_tot_12
+01M015,P.S. 015 Roberto Clemente,Elementary School,61%,92%,NA,8.4,8.2,8.3,8.2
+01M019,P.S. 019 Asher Levy,Elementary School,92%,94%,NA,8.4,8,8,8.2
+01M020,P.S. 020 Anna Silver,Elementary School,88%,73%,NA,8.5,7.8,8.2,8.2
+01M034,P.S. 034 Franklin D. Roosevelt,Elementary/Middle School,39%,58%,96%,7.3,6.9,7.3,7.7
+01M063,P.S. 063 William Mckinley,Elementary School,58%,100%,NA,8.5,7.4,7.6,7.8
+01M064,P.S. 064 Robert Simon,Elementary School,50%,94%,NA,8.6,7.9,8.1,8.2
+01M110,P.S. 110 Florence Nightingale,Elementary School,83%,79%,NA,7.6,6.9,7,7.4
+01M134,P.S. 134 Henrietta Szold,Elementary School,49%,55%,NA,7.7,7,7.5,7.4
+01M137,P.S. 137 John L. Bernstein,Elementary School,66%,82%,NA,7.3,6.6,6.7,7.1
+01M140,P.S. 140 Nathan Straus,Elementary/Middle School,58%,94%,98%,7.5,6.7,7,7.3
+01M142,P.S. 142 Amalia Castro,Elementary School,80%,97%,NA,8.4,7.9,8.1,8.2
+01M184,P.S. 184M Shuang Wen,Elementary/Middle School,64%,47%,99%,7.7,6.2,6.7,7.2
+01M188,P.S. 188 The Island School,Elementary/Middle School,45%,75%,97%,8.3,8,8.3,8.5
+01M292,Henry Street School For International Studies,Middle/High School,26%,97%,79%,6.9,6.4,6.8,7
+01M301,"Technology, Arts, And Sciences Studio",Middle School,36%,80%,83%,7.3,7.3,7.4,7.7
+01M315,The East Village Community School,Elementary School,66%,100%,NA,8.6,8.4,8.5,8.6
+01M332,University Neighborhood Middle School,Middle School,89%,100%,94%,8.2,7.8,8.3,8.6
+01M345,"Collaborative Academy Of Science, Technology, & La",Middle School,43%,67%,91%,6.7,5.6,6.6,6.6
+01M361,The Children'S Workshop School,Elementary School,32%,48%,NA,8.8,8.1,8.6,8.4
+01M363,Neighborhood School,Elementary School,70%,75%,NA,8.5,7.8,8.4,8.1
+01M364,Earth School,Elementary School,51%,72%,NA,9,8.5,8.9,8.7
+01M378,School For Global Leaders,Middle School,83%,100%,99%,7.6,6.7,7,7.8
+01M448,University Neighborhood High School,High School,26%,100%,71%,7.6,6.9,7.2,7.6
+01M450,East Side Community School,Middle/High School,29%,85%,82%,8,7.6,7.9,8.2
+01M458,Forsyth Satellite Academy,Transfer High School,17%,100%,71%,8.2,8,8,8.4
+01M509,Marta Valle High School,High School,13%,92%,60%,6.7,6,6.6,6.6
+01M515,Lower East Side Preparatory High School,Transfer High School,76%,100%,95%,7.9,6.6,7.1,7.3
+01M539,"New Explorations Into Science, Technology And Math",Elementary/Middle/High School,60%,88%,84%,7.8,6.4,6.9,7.5
+01M650,Cascades High School,Transfer High School,29%,85%,68%,7.9,7.4,8,8.4
+01M696,Bard High School Early College,High School,47%,83%,96%,8.4,7.6,8,8.7
+01M839,Tompkins Square Middle School,Middle School,51%,69%,96%,8.1,7.2,7.5,7.8
+02M001,P.S. 001 Alfred E. Smith,Elementary School,72%,85%,NA,8,6.3,7.1,7.3
+02M002,P.S. 002 Meyer London,Elementary School,82%,78%,NA,8.1,7.2,7.3,7.6
+02M003,P.S. 003 Charrette School,Elementary School,58%,77%,NA,8.7,8.5,8.8,8.8
+02M006,P.S. 006 Lillie D. Blake,Elementary School,53%,78%,NA,8.3,7.5,8.1,8.3
+02M011,P.S. 011 William T. Harris,Elementary School,59%,79%,NA,8.7,8.2,8.5,8.8
+02M033,P.S. 033 Chelsea Prep,Elementary School,95%,88%,NA,8.9,8.5,8.6,8.8
+02M040,P.S. 040 Augustus Saint-Gaudens,Elementary School,42%,51%,NA,8.7,8.2,8.2,8.3
+02M041,P.S. 041 Greenwich Village,Elementary School,79%,98%,NA,8.9,8.4,8.6,8.7
+02M042,P.S. 042 Benjamin Altman,Elementary School,90%,69%,NA,8.8,7.7,8,8
+02M047,47 The American Sign Language And English Secondar,High School,48%,71%,46%,8,6.7,7.4,7.4
+02M051,P.S. 051 Elias Howe,Elementary School,93%,100%,NA,8.8,8.3,8.5,8.7
+02M059,P.S. 059 Beekman Hill International,Elementary School,63%,53%,NA,9.1,8.1,8.8,8.9
+02M077,P.S. 77 Lower Lab School,Elementary School,95%,89%,NA,8.4,7.9,7.8,8.5
+02M089,P.S. 89,Elementary School,61%,82%,NA,8.7,7.5,8.1,8.2
+02M104,J.H.S. 104 Simon Baruch,Middle School,77%,98%,97%,7.5,6.7,7.2,7.6
+02M111,P.S. 111 Adolph S. Ochs,Elementary/Middle School,17%,39%,77%,6.8,6.4,6.7,6.8
+02M114,East Side Middle School,Middle School,73%,100%,99%,8.9,7.7,8.4,8.7
+02M116,P.S. 116 Mary Lindley Murray,Elementary School,46%,51%,NA,8.6,7.8,8.2,8.4
+02M124,P.S. 124 Yung Wing,Elementary School,100%,81%,NA,8.1,7,7.2,7.3
+02M126,P.S. 126 Jacob August Riis,Elementary/Middle School,40%,66%,88%,7.6,7.1,7.5,7.7
+02M130,P.S. 130 Hernando De Soto,Elementary School,89%,100%,NA,9.1,8,8.5,8.5
+02M131,M.S. 131,Middle School,65%,88%,96%,7.6,6.4,6.9,7.2
+02M150,P.S. 150,Elementary School,56%,64%,NA,8.6,7.4,7.9,7.9
+02M151,Yorkville Community School,Early Childhood School,67%,86%,NA,9.3,8.5,8.8,9
+02M158,P.S. 158 Bayard Taylor,Elementary School,45%,68%,NA,8.2,7.3,7.9,8.1
+02M167,J.H.S. 167 Robert F. Wagner,Middle School,65%,64%,95%,7.5,6.8,7,7.5
+02M183,P.S. 183 Robert L. Stevenson,Elementary School,45%,60%,NA,8.4,7.4,8,7.7
+02M198,P.S. 198 Isador E. Ida Straus,Elementary School,92%,40%,NA,7.1,6.2,6.6,6.8
+02M212,P.S. 212 Midtown West,Elementary School,98%,91%,NA,9,8.5,8.9,8.8
+02M217,P.S./I.S. 217 Roosevelt Island,Elementary/Middle School,46%,83%,94%,7.8,6.8,7.1,7.5
+02M225,Ella Baker School,Elementary/Middle School,34%,90%,96%,8.3,7.5,7.9,8
+02M234,P.S. 234 Independence School,Elementary School,69%,85%,NA,8.7,7.2,8,8
+02M255,M.S. 255 Salk School Of Science,Middle School,58%,84%,98%,8.7,8.1,8.5,9
+02M260,M.S. 260 Clinton School Writers & Artists,Middle School,50%,88%,90%,8.1,6.7,7.1,7.7
+02M267,P.S. 267,Early Childhood School,78%,100%,NA,9.2,8.5,9.1,9.2
+02M276,Battery Park City School,Elementary/Middle School,65%,88%,94%,8.4,7.7,8,8.3
+02M288,Food And Finance High School,High School,7%,92%,83%,6.9,6.9,7.1,7.5
+02M289,I.S. 289,Middle School,45%,84%,95%,8.2,6.9,7.3,7.6
+02M290,P.S. 290 Manhattan New School,Elementary School,68%,93%,NA,9.1,8.6,8.8,9
+02M294,Essex Street Academy,High School,29%,93%,72%,8.3,7.7,8,8.3
+02M296,High School Of Hospitality Management,High School,41%,93%,75%,7.7,7.1,7.4,7.8
+02M298,Pace High School,High School,78%,96%,97%,7.2,6.8,7,7.3
+02M300,"Urban Assembly School Of Design And Construction,",High School,30%,85%,81%,7.3,6.6,7,7.5
+02M303,"Facing History School, The",High School,73%,97%,89%,7.5,7.2,7.5,7.8
+02M305,"Urban Assembly Academy Of Government And Law, The",High School,9%,100%,90%,7.1,6.4,6.8,7.2
+02M308,Lower Manhattan Arts Academy,High School,13%,71%,66%,7.5,7.2,7.5,7.7
+02M312,New York City Lab Middle School For Collaborative,Middle School,60%,97%,99%,8.4,7.4,7.8,8.2
+02M313,"James Baldwin School, The: A School For Expedition",Transfer High School,16%,100%,54%,7.9,6.8,7.7,7.8
+02M316,"Urban Assembly School Of Business For Young Women,",High School,60%,77%,80%,7.2,6.4,6.7,7.2
+02M347,The 47 American Sign Language & English Lower Scho,Elementary/Middle School,32%,78%,95%,7.4,7,7,7.6
+02M374,Gramercy Arts High School,High School,68%,91%,96%,7.5,6.8,7.4,7.6
+02M376,Nyc Ischool,High School,37%,87%,87%,8.1,7.4,7.6,7.7
+02M392,Manhattan Business Academy,High School,17%,96%,84%,7.8,7.1,7.3,7.8
+02M393,Business Of Sports School,High School,26%,82%,53%,7,6.7,6.9,7.3
+02M394,Emma Lazarus High School,Transfer High School,95%,88%,94%,9.4,8.2,8.7,9.1
+02M397,Spruce Street School,Early Childhood School,82%,88%,NA,8.5,6.9,7.3,7.4
+02M399,The High School For Language And Diplomacy,High School,15%,89%,78%,7.5,6.1,6.6,6.9
+02M400,High School For Environmental Studies,High School,10%,99%,75%,7.8,7,7.4,7.8
+02M407,Institute For Collaborative Education,Middle/High School,30%,96%,88%,8.1,8.1,8.2,8.5
+02M408,Professional Performing Arts High School,Middle/High School,45%,100%,81%,7.8,6.9,7.3,7.6
+02M411,Baruch College Campus High School,High School,29%,27%,92%,8.4,6.7,7.2,8.1
+02M412,N.Y.C. Lab School For Collaborative Studies,High School,27%,88%,93%,8.1,7.7,7.8,8
+02M413,School Of The Future High School,Middle/High School,46%,92%,92%,8,7,7.4,7.8
+02M414,N.Y.C. Museum School,High School,50%,93%,100%,7.6,5.7,6.2,6.5
+02M416,Eleanor Roosevelt High School,High School,39%,100%,82%,8.5,7.5,7.9,8.4
+02M418,Millennium High School,High School,47%,93%,99%,8.3,7,7.5,8.1
+02M419,Landmark High School,High School,45%,96%,79%,7.2,6.4,7,7.2
+02M420,High School For Health Professions And Human Servi,High School,48%,95%,94%,7.5,6.8,7.1,7.6
+02M422,Quest To Learn,Middle School,41%,95%,93%,7.5,7.2,7.5,7.6
+02M425,Leadership And Public Service High School,High School,6%,75%,4%,6.8,6.7,7,7.2
+02M427,Manhattan Academy For Arts & Language,High School,61%,100%,89%,8,7.5,7.9,8.3
+02M429,Legacy School For Integrated Studies,High School,21%,44%,74%,7,6.2,6.3,6.7
+02M432,Murray Hill Academy,Transfer High School,71%,100%,95%,8,7.6,7.8,8.1
+02M437,Hudson High School Of Learning Technologies,High School,47%,88%,89%,8,7.4,7.7,7.6
+02M438,International High School At Union Square,High School,28%,75%,72%,8.1,7.6,7.8,8.2
+02M439,Manhattan Village Academy,High School,74%,82%,100%,8.3,6.7,7.1,7.8
+02M440,Bayard Rustin Educational Complex,High School,20%,58%,66%,7.2,6.6,6.6,7
+02M442,"Ballet Tech, Nyc Public School For Dance",Elementary/Middle School,84%,75%,97%,8.7,7.9,8,8.6
+02M449,Vanguard High School,High School,19%,94%,89%,7.9,7.4,7.7,8.1
+02M459,Manhattan International High School,High School,39%,90%,90%,8.3,7.1,7.4,7.9
+02M460,Washington Irving High School,High School,24%,56%,48%,7,6.5,6.8,7.1
+02M473,Washington Irving Yabc,YABC,1%,69%,41%,8.2,7.2,8,8.3
+02M475,Stuyvesant High School,High School,23%,91%,92%,7.9,6.7,7.1,7.7
+02M489,High School Of Economics And Finance,High School,47%,89%,83%,8,7.1,7.3,7.8
+02M500,Unity Center For Urban Technologies,High School,75%,88%,76%,8.3,7.6,7.8,8
+02M507,Urban Assembly Gateway School For Technology,High School,44%,100%,95%,8.5,7.6,8.3,8.6
+02M519,Talent Unlimited High School,High School,30%,100%,88%,7.4,6.6,6.9,7.3
+02M520,Murry Bergtraum High School For Business Careers,High School,4%,61%,46%,6.1,5.5,6,6.3
+02M529,Jacqueline Kennedy Onassis High School,High School,16%,76%,75%,7.6,6.8,7.2,7.5
+02M531,Repertory Company High School For Theatre Arts,High School,36%,100%,96%,7.5,7,6.9,7.3
+02M542,Manhattan Bridges High School,High School,68%,95%,88%,8,7.1,7.6,8.2
+02M543,New Design High School,High School,5%,75%,62%,8,6.4,7.2,7.6
+02M544,Independence High School,Transfer High School,19%,68%,34%,8.1,6.8,7.6,7.5
+02M545,High School For Dual Language And Asian Studies,High School,47%,62%,80%,8.1,6.4,6.6,7.1
+02M550,Liberty High School Academy For Newcomers,Transfer High School,76%,87%,93%,7.9,6.2,6.9,7.4
+02M551,The Urban Assembly New York Harbor School,High School,35%,86%,49%,7.3,6.6,7,7.4
+02M560,High School M560 - City As School,Transfer High School,4%,73%,29%,8.3,7.1,7.8,8
+02M565,Urban Academy Laboratory High School,Transfer High School,11%,88%,48%,9,8.3,8.8,9.3
+02M570,Satellite Academy High School,Transfer High School,33%,93%,70%,8.7,8,8.5,8.7
+02M575,Manhattan Comprehensive Night And Day High School,Transfer High School,35%,81%,73%,8.6,7.4,8,8.2
+02M580,Richard R. Green High School Of Teaching,High School,42%,98%,91%,7.7,6.6,7,7.4
+02M586,Harvey Milk High School,Transfer High School,37%,100%,81%,7.4,7.2,7,7.4
+02M600,The High School Of Fashion Industries,High School,25%,82%,93%,7.7,7.4,7.6,7.9
+02M605,Humanities Preparatory Academy,Transfer High School,25%,100%,89%,7.7,6.4,7.2,7.5
+02M615,Chelsea Career And Technical Education High School,High School,28%,100%,94%,7.8,6.9,7.3,7.8
+02M620,Norman Thomas High School,High School,41%,91%,38%,6.6,6,6.2,6.5
+02M625,High School Of Graphic Communication Arts,High School,26%,46%,68%,6.3,6,6.1,6.6
+02M630,Art And Design High School,High School,22%,35%,72%,7.4,6,6.6,6.9
+02M655,Life Sciences Secondary School,Middle/High School,9%,69%,59%,7,6.7,7,7.5
+02M896,Lower Manhattan Community Middle School,Middle School,55%,81%,93%,8.1,7.1,7.7,7.9
+03M009,P.S. 009 Sarah Anderson,Elementary School,86%,97%,NA,9.2,8.6,8.8,9.1
+03M054,J.H.S. 054 Booker T. Washington,Middle School,66%,87%,97%,8,7.3,7.8,8.2
+03M075,P.S. 075 Emily Dickinson,Elementary School,71%,77%,NA,8,7.4,7.8,7.8
+03M076,P.S. 076 A. Philip Randolph,Elementary/Middle School,64%,91%,97%,8.4,8,8.4,8.9
+03M084,P.S. 084 Lillian Weber,Elementary School,54%,78%,NA,8.5,7.8,8.2,8.2
+03M087,P.S. 087 William Sherman,Elementary School,30%,47%,NA,7.7,6.1,6.9,6.8
+03M145,"P.S. 145, The Bloomingdale School",Elementary School,46%,61%,NA,8.5,7.8,8,8.2
+03M149,P.S. 149 Sojourner Truth,Elementary/Middle School,53%,75%,89%,7.2,7.4,7.5,7.8
+03M163,P.S. 163 Alfred E. Smith,Elementary School,50%,71%,NA,8.6,8.1,8.2,8.3
+03M165,P.S. 165 Robert E. Simon,Elementary/Middle School,23%,24%,37%,7.6,6.9,7.1,7.6
+03M166,P.S. 166 The Richard Rodgers School Of The Arts An,Elementary School,75%,78%,NA,8.4,7.3,7.9,7.9
+03M180,P.S. 180 Hugo Newman,Elementary/Middle School,45%,88%,100%,8,7.5,7.8,8.4
+03M185,P.S. 185 - The Early Childhood Discovery And Desig,Early Childhood School,90%,100%,NA,8.7,8,8.3,8.4
+03M191,P.S. 191 Amsterdam,Elementary/Middle School,85%,52%,55%,6.9,6.3,6.9,7.4
+03M199,P.S. 199 Jessie Isador Straus,Elementary School,33%,24%,NA,8.7,7.6,8.2,8.3
+03M208,P.S. 208 Alain L. Locke,Elementary School,81%,90%,NA,8.8,8.1,8.5,8.6
+03M241,Stem Institute Of Manhattan,Elementary School,84%,83%,NA,8.1,7.2,7.9,7.6
+03M243,M.S. 243 Center School,Middle School,67%,93%,99%,8.8,8,8.6,8.6
+03M245,M.S. M245 The Computer School,Middle School,39%,88%,95%,8.2,7.1,7.5,7.9
+03M247,M.S. M247 Dual Language Middle School,Middle School,80%,80%,100%,8.7,7.7,8,8.6
+03M250,M.S. 250 West Side Collaborative Middle School,Middle School,58%,100%,96%,8.6,8.1,8.6,8.9
+03M256,M.S. 256 Academic & Athletic Excellence,Middle School,22%,100%,85%,7.3,6.6,7.1,7.5
+03M258,Community Action School - Ms 258,Middle School,31%,96%,86%,8.1,7.3,7.8,8.1
+03M283,Manhattan Theatre Lab High School,High School,6%,75%,37%,6.2,5,5.3,5.5
+03M299,"High School For Arts, Imagination And Inquiry",High School,21%,96%,74%,7.3,6.6,6.9,7.3
+03M307,"Urban Assembly School For Media Studies, The",High School,13%,100%,76%,7.3,7,7.3,7.7
+03M333,P.S. 333 Manhattan School For Children,Elementary/Middle School,42%,43%,82%,8,7.6,8.2,8.2
+03M334,The Anderson School,Elementary/Middle School,82%,88%,100%,8.5,7.8,8.2,8.7
+03M402,The Urban Assembly School For Green Careers,High School,33%,92%,28%,6.9,6.5,6.9,7
+03M403,The Global Learning Collaborative,High School,20%,96%,87%,7.7,7.5,7.6,7.8
+03M404,Innovation Diploma Plus,Transfer High School,44%,60%,56%,7.7,7.1,7.3,7.7
+03M415,Wadleigh Secondary School For The Performing & Vis,Middle/High School,46%,80%,72%,6.7,6.6,6.7,7.1
+03M417,Frank Mccourt High School,High School,32%,82%,97%,7.5,6.9,6.9,7.4
+03M421,West Prep Academy,Middle School,76%,93%,82%,7.7,7.4,7.7,7.9
+03M452,P.S. 452,Early Childhood School,73%,90%,NA,9.1,9,8.9,9.1
+03M470,Louis D. Brandeis High School,High School,4%,35%,82%,6.8,6.4,6.6,7
+03M479,Beacon High School,High School,29%,88%,82%,7.9,7.2,7.7,8
+03M485,Fiorello H. Laguardia High School Of Music & Art A,High School,36%,53%,92%,7.8,6.4,7,7.4
+03M492,"High School For Law, Advocacy And Community Justic",High School,52%,100%,77%,7.6,6.8,7.2,7.5
+03M494,High School Of Arts And Technology,High School,29%,88%,53%,6.8,5.9,6.3,6.5
+03M505,Edward A. Reynolds West Side High School,Transfer High School,14%,93%,29%,7.9,6.7,7.5,7.7
+03M541,Manhattan / Hunter Science High School,High School,22%,96%,89%,8.4,7.4,7.8,8.2
+03M859,Special Music School,Elementary/Middle School,86%,100%,100%,8.7,7.9,8.1,8.3
+03M860,Frederick Douglass Academy Ii Secondary School,Middle/High School,49%,82%,80%,7,6.7,6.9,7.3
+03M862,Mott Hall Ii,Middle School,86%,57%,99%,8.2,6.8,7.5,7.9
+04M007,P.S. 007 Samuel Stern,Elementary/Middle School,64%,100%,94%,7.3,6.6,7.1,7.6
+04M012,Tag Young Scholars,Elementary/Middle School,55%,100%,99%,8.3,7.8,8.2,8.7
+04M013,J.H.S. 013 Jackie Robinson,Middle School,45%,68%,63%,6.8,6.5,6.8,7
+04M037,River East Elementary,Elementary School,96%,79%,NA,8.4,6.7,7.8,7.9
+04M038,P.S. 38 Roberto Clemente,Elementary School,53%,85%,NA,8,7.3,7.3,7.6
+04M045,M.S. 45/S.T.A.R.S. Prep Academy,Middle School,71%,96%,89%,5.7,5.7,6,6.5
+04M050,P.S. 050 Vito Marcantonio,Elementary/Middle School,36%,77%,87%,6.6,6.1,6.6,7
+04M057,James Weldon Johnson,Elementary/Middle School,59%,81%,90%,8.2,7.6,8,8.4
+04M072,The Lexington Academy,Elementary School,73%,96%,NA,8.8,8,8.4,8.5
+04M083,P.S. 083 Luis Munoz Rivera,Elementary School,78%,97%,NA,8.2,7.8,8,8.1
+04M096,P.S. 096 Joseph Lanzetta,Elementary/Middle School,32%,88%,93%,6.8,6.9,7,7.5
+04M102,P.S. 102 Jacques Cartier,Elementary School,93%,100%,NA,8.3,7.9,8.1,8.1
+04M108,P.S. 108 Assemblyman Angelo Del Toro Educational C,Elementary/Middle School,63%,88%,97%,7.9,7.2,7.7,8.2
+04M112,P.S. 112 Jose Celso Barbosa,Early Childhood School,98%,100%,NA,8.2,8.1,8.1,8.4
+04M146,P.S. 146 Ann M. Short,Elementary School,54%,100%,NA,7.7,6.6,7.1,7.1
+04M155,P.S. 155 William Paca,Elementary School,71%,100%,NA,7.6,7.2,7.3,7.3
+04M171,P.S. 171 Patrick Henry,Elementary/Middle School,92%,93%,100%,8.4,7.7,8,8.4
+04M182,The Bilingual Bicultural School,Elementary School,89%,92%,NA,8.7,8,8.1,8.4
+04M206,P.S. 206 Jose Celso Barbosa,Elementary School,94%,100%,98%,8.2,7.5,7.9,8.1
+04M224,M.S. 224 Manhattan East School For Arts & Academic,Middle School,39%,100%,98%,7.2,7.1,7.3,7.7
+04M372,Esperanza Preparatory Academy,Middle School,91%,96%,98%,8.3,7.9,8.2,8.5
+04M375,Mosaic Preparatory Academy,Elementary School,69%,100%,NA,8.4,8.1,8.3,8.5
+04M377,Renaissance School Of The Arts,Middle School,78%,100%,96%,7.3,7.4,7.7,8
+04M381,Global Neighborhood Secondary School,Middle School,47%,100%,95%,7.4,6.8,7.5,7.6
+04M406,Global Technology Preparatory,Middle School,53%,100%,91%,8.2,8.1,8.7,9
+04M409,Coalition School For Social Change,High School,18%,75%,67%,7,6.9,7.1,7.4
+04M435,Manhattan Center For Science And Mathematics,High School,21%,81%,86%,7.5,6.1,6.7,7.1
+04M495,Park East High School,High School,30%,96%,89%,8,7,7.5,7.8
+04M497,Central Park East I,Elementary School,62%,65%,NA,8.8,8.6,8.9,8.8
+04M555,Central Park East High School,High School,30%,100%,93%,8.1,7.2,7.4,8.1
+04M610,Young Women'S Leadership School,Middle/High School,60%,96%,94%,8.4,7.5,7.8,8.5
+04M635,Academy Of Environmental Science Secondary High Sc,High School,74%,100%,71%,7.2,6.8,7.1,7.3
+04M680,"Heritage School, The",High School,51%,88%,97%,6.9,6.5,6.7,7
+04M825,Isaac Newton Middle School For Math & Science,Middle School,41%,73%,97%,7.9,7.7,7.9,8.3
+04M964,Central Park East Ii,Elementary School,56%,86%,NA,9.1,8.4,9.1,8.9
+05M030,P.S. 030 Hernandez/Hughes,Elementary School,84%,100%,NA,8.4,8.1,8.1,8.3
+05M036,P.S. 036 Margaret Douglas,Elementary School,40%,70%,NA,7.7,7,7.1,7.1
+05M046,P.S. 046 Arthur Tappan,Elementary/Middle School,73%,100%,97%,7.6,7.5,7.8,8.1
+05M092,P.S. 092 Mary Mcleod Bethune,Elementary School,100%,93%,NA,8.5,8.4,8.4,8.6
+05M123,P.S. 123 Mahalia Jackson,Elementary/Middle School,69%,81%,77%,7.9,7.6,7.9,8.3
+05M125,P.S. 125 Ralph Bunche,Elementary School,86%,74%,NA,8.2,8.2,8,8.2
+05M129,P.S. 129 John H. Finley,Elementary/Middle School,28%,43%,65%,6.8,6.8,7.2,7.7
+05M133,P.S. 133 Fred R Moore,Elementary School,88%,86%,NA,7.2,6.3,6.6,6.7
+05M154,P.S. 154 Harriet Tubman,Elementary School,67%,94%,NA,8.1,7.5,7.7,7.7
+05M161,P.S. 161 Pedro Albizu Campos,Elementary/Middle School,52%,95%,91%,7.5,7.4,7.7,8.2
+05M175,P.S. 175 Henry H Garnet,Elementary School,75%,37%,NA,7.8,6.9,7.8,7.6
+05M194,P.S. 194 Countee Cullen,Elementary School,80%,65%,NA,7.8,7.8,7.7,7.8
+05M195,I.S. 195 Roberto Clemente,Middle School,68%,77%,94%,6.4,6.4,6.8,7
+05M197,P.S. 197 John B. Russwurm,Elementary School,85%,100%,NA,8.2,8,8,8.1
+05M200,P.S. 200- The James Mccune Smith School,Elementary School,67%,87%,NA,7.6,7,7.2,7.5
+05M285,Harlem Renaissance High School,Transfer High School,24%,100%,74%,7.8,7.1,7.6,7.8
+05M286,I.S. M286 Renaissance Military Leadership Academy,Middle School,65%,93%,96%,8,7.6,8,8.5
+05M302,Kappa Iv,Middle School,54%,67%,95%,7.4,7.2,7.4,7.8
+05M304,Mott Hall High School,High School,78%,90%,99%,7.7,7.2,7.2,7.5
+05M318,Thurgood Marshall Academy Lower School,Elementary School,79%,100%,NA,8.8,8.6,8.7,8.8
+05M362,Columbia Secondary School,Middle/High School,39%,63%,95%,7.8,7,7.3,7.9
+05M367,Academy For Social Action: A College Board School,Middle/High School,12%,67%,62%,5.5,5.1,5.3,5.8
+05M369,Urban Assembly School For The Performing Arts,High School,54%,100%,84%,6.5,5.6,5.8,6.2
+05M410,The Urban Assembly Institute For New Technologies,Middle School,1%,23%,27%,6.7,6.8,7.5,8.2
+05M469,Choir Academy Of Harlem,Middle/High School,24%,42%,88%,6.5,6.6,6.6,6.9
+05M499,Frederick Douglass Academy,Middle/High School,14%,48%,72%,6.7,6.5,6.8,7.3
+05M514,New Design Middle School,Middle School,85%,89%,93%,7.7,7.7,8,8.3
+05M517,Teachers College Community School,Early Childhood School,94%,100%,NA,9.4,9.1,9.2,9.5
+05M670,Thurgood Marshall Academy For Learning And Social,Middle/High School,41%,81%,83%,7.6,6.8,7.1,7.5
+05M685,Bread & Roses Integrated Arts High School,High School,25%,87%,62%,7,6.5,6.8,6.8
+05M692,"High School For Mathematics, Science And Engineeri",High School,41%,97%,66%,8.5,7.4,7.6,8.2
+06M004,P.S. 004 Duke Ellington,Elementary School,43%,52%,NA,8.6,7.6,7.9,8.1
+06M005,P.S. 005 Ellen Lurie,Elementary School,63%,77%,NA,7.9,6.9,7.4,7.3
+06M008,P.S. 008 Luis Belliard,Elementary School,93%,95%,NA,8.8,8.3,8.4,8.6
+06M018,P.S. 018 Park Terrace,Elementary/Middle School,93%,88%,99%,8.1,7.4,7.9,8.1
+06M028,P.S. 028 Wright Brothers,Elementary School,80%,99%,NA,8.6,7.7,7.8,8.1
+06M048,P.S. 048 P.O. Michael J. Buczek,Elementary School,57%,84%,NA,8.3,7.3,7.8,7.9
+06M052,J.H.S. 052 Inwood,Middle School,51%,88%,90%,7.9,7.4,7.9,8.3
+06M098,P.S. 098 Shorac Kappock,Elementary School,69%,81%,NA,8,7.3,7.3,7.4
+06M115,P.S. 115 Alexander Humboldt,Elementary School,41%,72%,NA,7.8,6.4,6.8,7
+06M128,P.S. 128 Audubon,Elementary School,59%,58%,NA,8.6,7.8,8.2,8.2
+06M132,P.S. 132 Juan Pablo Duarte,Elementary School,59%,96%,NA,7.7,7.4,7.5,7.5
+06M143,J.H.S. 143 Eleanor Roosevelt,Middle School,96%,100%,99%,7.5,7.3,7.5,7.8
+06M152,P.S. 152 Dyckman Valley,Elementary School,45%,69%,NA,7.4,6.3,6.4,6.4
+06M153,P.S. 153 Adam Clayton Powell,Elementary School,94%,92%,NA,8.7,8.3,8.5,8.7
+06M173,P.S. 173,Elementary School,65%,56%,NA,8.2,7.1,7.2,7.7
+06M178,Professor Juan Bosch Public School,Early Childhood School,100%,100%,NA,9,8.5,8.6,8.7
+06M187,P.S./I.S. 187 Hudson Cliffs,Elementary/Middle School,55%,92%,98%,7.7,6.7,7.2,7.5
+06M189,P.S. 189,Elementary School,58%,64%,NA,8.2,7.5,7.7,7.9
+06M192,P.S. 192 Jacob H. Schiff,Elementary School,53%,90%,NA,8.8,8.6,8.3,8.7
+06M210,P.S./I.S. 210 - Twenty-First Century Academy For C,Elementary/Middle School,89%,89%,99%,8.1,7.2,8,8.1
+06M218,I.S. 218 Salome Urena,Middle School,60%,53%,85%,7.5,6.8,6.9,7.2
+06M223,The Mott Hall School,Middle School,95%,100%,99%,7.5,6.4,7.1,7.8
+06M278,Paula Hedbavny School,Elementary/Middle School,87%,100%,99%,8.1,6.9,7.7,7.9
+06M293,City College Academy Of The Arts,Middle/High School,54%,73%,93%,8.4,7.4,7.9,8.3
+06M311,Amistad Dual Language School,Elementary/Middle School,68%,93%,100%,8.3,7.4,8,8.3
+06M314,Muscota,Elementary School,56%,95%,NA,8.8,8.5,8.7,8.7
+06M319,M.S. 319 - Maria Teresa,Middle School,95%,92%,95%,8.5,8.2,8.3,8.6
+06M322,Middle School 322,Middle School,73%,79%,96%,7.4,6.8,7.3,7.5
+06M324,M.S. 324 - Patria Mirabal,Middle School,95%,97%,98%,8.5,7.8,8.3,8.6
+06M325,P.S. 325,Elementary School,69%,70%,NA,8,7.4,7.4,7.7
+06M326,M.S. 326 - Writers Today & Leaders Tomorrow,Middle School,95%,53%,90%,6.3,6.4,6.9,7.1
+06M328,M.S. 328 - Manhattan Middle School For Scientific,Middle School,85%,100%,96%,8.4,8.3,8.6,8.8
+06M346,Community Health Academy Of The Heights,Middle/High School,52%,97%,80%,7.8,7.3,7.4,7.8
+06M348,Washington Heights Expeditionary Learning School,Middle/High School,52%,91%,95%,8.3,7.5,7.6,8.2
+06M349,Harbor Heights,Middle School,99%,92%,100%,8.3,7.2,7.9,8.1
+06M366,Washington Heights Academy,Elementary School,81%,85%,NA,8.7,8.1,8.1,8.3
+06M368,Hamilton Heights School,Elementary School,45%,78%,NA,8.7,6.8,7.5,7.6
+06M423,High School For Excellence And Innovation,Transfer High School,64%,100%,79%,7.9,7.3,7.7,7.8
+06M457,George Washington Yabc,YABC,7%,61%,46%,8.3,7.9,8.2,8.4
+06M462,The College Academy,High School,44%,84%,80%,7.5,6.7,7,7.3
+06M463,High School For Media And Communications,High School,38%,92%,63%,6.9,6.6,7,7.3
+06M467,High School For Law And Public Service,High School,40%,93%,71%,7,7,7.1,7.5
+06M468,High School For Health Careers And Sciences,High School,52%,100%,88%,7.3,6.7,7.1,7.3
+06M528,I.S. 528 Bea Fuller Rodgers School,Middle School,57%,78%,99%,7.8,7.4,7.7,7.9
+06M540,A. Philip Randolph Campus High School,High School,9%,97%,71%,6.5,6.3,6.2,6.8
+06M552,Gregorio Luperon High School For Science And Mathe,High School,65%,90%,94%,8.6,7.4,7.8,8.3
+07X001,P.S. 001 Courtlandt School,Elementary School,69%,72%,NA,7.7,7,7.5,7.4
+07X005,P.S. 005 Port Morris,Elementary School,66%,98%,NA,8.8,8.4,8.6,8.7
+07X018,P.S. 018 John Peter Zenger,Elementary School,63%,51%,NA,7.7,7.2,7.5,7.7
+07X025,P.S. 025 Bilingual School,Elementary School,54%,94%,NA,8.8,8.2,8.3,8.6
+07X029,P.S./M.S. 029 Melrose School,Elementary/Middle School,54%,77%,91%,7.6,7.3,7.5,7.8
+07X030,P.S. 030 Wilton,Elementary School,78%,89%,NA,7.9,7.7,7.8,7.9
+07X031,P.S./M.S. 031 The William Lloyd Garrison,Elementary/Middle School,35%,81%,93%,7.4,7.3,7.5,7.9
+07X043,P.S. 043 Jonas Bronck,Elementary School,76%,100%,NA,8.4,7.8,8.1,8.2
+07X049,P.S. 049 Willis Avenue,Elementary School,56%,77%,NA,8.2,7.8,7.6,7.9
+07X065,P.S. 065 Mother Hale Academy,Elementary School,99%,100%,NA,7.8,8.1,8,8.1
+07X151,J.H.S. 151 Lou Gehrig,Middle School,13%,100%,82%,6.9,7,7.3,7.8
+07X154,P.S. 154 Jonathan D. Hyatt,Elementary School,49%,38%,NA,6.8,6.1,6.3,6.3
+07X157,P.S. 157 Grove Hill,Elementary School,52%,80%,NA,8.1,7.4,7.3,7.8
+07X161,P.S. 161 Ponce De Leon,Elementary School,45%,97%,NA,7.6,7.2,7.3,7.4
+07X162,J.H.S. 162 Lola Rodriguez De Tio,Middle School,21%,59%,80%,6.1,6.2,6.4,6.8
+07X179,P.S. 179,Elementary School,73%,59%,NA,8.5,7.7,7.9,8
+07X203,M.S. 203,Middle School,69%,77%,76%,6.8,6.9,7.2,7.4
+07X221,South Bronx Preparatory: A College Board School,Middle/High School,47%,68%,94%,7.4,6.9,7.1,7.7
+07X223,M.S. 223 The Laboratory School Of Finance And Tech,Middle School,63%,91%,99%,8.2,7.5,7.8,8.4
+07X224,P.S. / I.S. 224,Middle School,88%,100%,88%,7.3,7,7.1,7.6
+07X277,P.S. 277,Elementary School,28%,66%,NA,8.1,7.6,7.9,7.9
+07X296,South Bronx Academy For Applied Media,Middle School,90%,100%,98%,7.1,7.3,7.5,7.9
+07X298,Academy Of Public Relations,Middle School,86%,73%,98%,7.8,6.7,7.5,7.7
+07X321,Crotona Academy High School,Transfer High School,50%,75%,86%,8.6,8.4,8.8,9
+07X334,International Community High School,High School,46%,100%,95%,8,6.6,7.2,7.4
+07X343,Academy Of Applied Mathematics And Technology,Middle School,41%,100%,91%,8.8,8.1,8.5,8.8
+07X369,Young Leaders Elementary School,Elementary School,62%,100%,NA,7.9,7.2,7.5,7.7
+07X379,Jill Chaifetz Transfer High School,Transfer High School,22%,100%,73%,8.4,7.6,8,8.4
+07X381,Bronx Haven High School,Transfer High School,32%,100%,76%,7.8,6.8,7.7,7.9
+07X385,Performance School,Elementary School,80%,68%,NA,8,7.3,7.2,7.4
+07X427,Community School For Social Justice,High School,33%,96%,95%,8,7.5,7.9,8
+07X456,Alfred E. Smith Campus Yabc,YABC,30%,50%,43%,8.2,7.5,7.9,8.2
+07X473,Mott Haven Village Preparatory High School,High School,67%,100%,93%,8,7.1,7.6,7.9
+07X495,University Heights Secondary School,High School,73%,100%,85%,8.1,6.9,7.1,7.4
+07X500,Hostos-Lincoln Academy Of Science,Middle/High School,24%,64%,92%,7.7,6.3,6.8,7.2
+07X520,Foreign Language Academy Of Global Studies,High School,42%,93%,89%,7.2,6.9,6.9,7.5
+07X522,Bronx Design And Construction Academy,High School,41%,80%,69%,8.4,7.9,8.3,8.5
+07X527,Bronx Leadership Academy Ii High School,High School,20%,68%,47%,7.2,6.6,7,7.4
+07X547,New Explorers High School,High School,17%,80%,61%,7.5,7,7.4,7.7
+07X548,Urban Assembly School For Careers In Sports,High School,24%,91%,87%,7.4,7,7.4,7.7
+07X551,Bronx Academy Of Letters,Middle/High School,32%,79%,87%,7,6.5,6.9,7.4
+07X600,Alfred E. Smith Career And Technical Education Hig,High School,15%,74%,70%,6.5,6.3,6.6,6.9
+07X655,Samuel Gompers Career And Technical Education High,High School,11%,42%,55%,6.3,6,6.3,6.5
+07X670,Health Opportunities High School,High School,83%,97%,72%,7.1,6.9,7,7.3
+08X014,P.S. X014 Senator John Calandra,Elementary School,71%,98%,NA,8.5,8.3,8.3,8.5
+08X036,P.S. 036 Unionport,Elementary School,69%,82%,NA,8.5,7.9,8.2,8.5
+08X048,P.S. 048 Joseph R. Drake,Elementary School,57%,96%,NA,7.7,7.3,7.6,7.8
+08X062,P.S. 062 Inocensio Casanova,Elementary School,66%,90%,NA,8.4,8,8.1,8.4
+08X069,P.S. 069 The New Vision School,Elementary School,65%,67%,NA,8.6,8.2,8.2,8.6
+08X071,P.S. 071 Rose E. Scala,Elementary/Middle School,47%,89%,95%,7.7,7.5,7.8,8.1
+08X072,P.S. 072 Dr. William Dorney,Elementary School,61%,97%,NA,8.5,7.8,8.2,8.3
+08X075,P.S. 075,Elementary School,73%,98%,NA,7.5,7.3,7.3,7.6
+08X093,P.S. 093 Albert G. Oliver,Elementary School,100%,40%,NA,8.5,7.3,7.6,7.6
+08X100,P.S. 100 Isaac Clason,Elementary School,42%,62%,NA,8,7.4,7.7,7.9
+08X101,M.S. X101 Edward R. Byrne,Middle School,72%,94%,100%,8.2,7.7,8,8.4
+08X107,P.S. 107,Elementary School,81%,97%,NA,7.8,7.5,7.7,7.9
+08X119,P.S. 119,Elementary School,67%,59%,NA,7.8,7.2,7.4,7.6
+08X123,J.H.S. 123 James M. Kieran,Middle School,65%,90%,92%,6.9,6.4,6.9,7.3
+08X125,J.H.S. 125 Henry Hudson,Middle School,71%,100%,86%,6.3,6.2,6.5,6.8
+08X130,P.S. 130 Abram Stevens Hewitt,Elementary School,98%,100%,NA,8.7,8.2,8.5,8.6
+08X131,J.H.S. 131 Albert Einstein,Middle School,45%,97%,91%,6.6,6.5,6.8,7.2
+08X138,P.S. 138 Samuel Randall,Elementary School,58%,97%,NA,8.3,8.3,8.2,8.5
+08X140,P.S. X140 The Eagle School,Elementary School,63%,96%,NA,8.2,7.8,7.8,8
+08X146,P.S. 146 Edward Collins,Elementary School,63%,93%,NA,8.3,7.9,8,8.3
+08X152,P.S. 152 Evergreen,Elementary School,25%,71%,NA,8.8,8,8.2,8.5
+08X182,P.S. 182,Elementary School,37%,81%,NA,8.2,7.3,7.4,7.9
+08X269,Bronx Studio School For Writers And Artists,Middle/High School,43%,100%,78%,7.4,7,7.2,7.5
+08X282,Women'S Academy Of Excellence,High School,21%,56%,89%,6.7,5.7,5.6,6.2
+08X293,Renaissance High School For Musical Theater & Tech,High School,31%,67%,90%,7.6,7.1,7.4,7.9
+08X295,Gateway School For Environmental Research And Tech,High School,14%,63%,62%,6.4,5.7,6,6.4
+08X301,M.S. 301 Paul L. Dunbar,Middle School,68%,81%,75%,7.1,7.2,7.4,7.7
+08X302,M.S. 302 Luisa Dessus Cruz,Middle School,61%,64%,89%,7.4,7,7.4,7.8
+08X304,P.S. 304 Early Childhood School,Elementary School,99%,100%,NA,8.6,8.4,8.3,8.7
+08X305,Pablo Neruda Academy For Architecture And World St,High School,39%,97%,83%,7.6,7.2,7.5,7.7
+08X312,Millennium Art Academy,High School,16%,38%,81%,7.4,7,7.4,7.8
+08X332,Holcombe L. Rucker School Of Community Research,High School,71%,70%,56%,7.1,6,6.5,6.9
+08X333,P.S. 333 - The Museum School,Elementary School,62%,76%,NA,8.1,7,7.2,7.3
+08X335,The Academy Of The Arts,Elementary School,47%,41%,NA,8.3,8.1,8.1,8.3
+08X337,The School For Inquiry And Social Justice,Middle School,58%,96%,97%,7.9,7,7.6,8.2
+08X366,Urban Assembly Academy Of Civic Engagement,Middle School,51%,60%,89%,6.8,6.4,6.8,7.3
+08X367,"Archimedes Academy For Math, Science And Technolog",Middle/High School,37%,86%,92%,6.9,5.9,6.4,6.6
+08X371,Urban Institute Of Mathematics,Middle School,55%,62%,98%,7.7,7.3,7.3,8.1
+08X375,The Bronx Mathematics Preparatory School,Middle School,30%,94%,84%,6.4,6.4,6.4,6.8
+08X376,"Antonia Pantoja Preparatory Academy, A College Boa",Middle/High School,32%,79%,85%,6.5,5.8,6,6.4
+08X377,Bronx Community High School,Transfer High School,43%,88%,75%,8.1,8.1,8.3,8.6
+08X405,Herbert H. Lehman High School,High School,5%,84%,56%,6.6,6.8,7,7.4
+08X408,Herbert H. Lehman Yabc,YABC,43%,100%,67%,8.6,7.9,8.4,8.4
+08X424,The Hunts Point School,Middle School,33%,67%,88%,7.3,7.3,7.8,8
+08X432,Bronx Bridges High School,High School,58%,73%,90%,7.7,6.8,7.4,7.6
+08X448,Soundview Academy For Culture And Scholarship,Middle School,81%,81%,89%,7,6.7,7.3,7.4
+08X452,Bronx Guild,High School,44%,100%,71%,7.7,6.9,7.1,7.7
+08X467,Mott Hall Community School,Middle School,31%,86%,89%,7.3,7.3,7.5,7.7
+08X507,Stevenson Yabc,YABC,39%,80%,82%,8.9,8,8.6,8.9
+08X519,Felisa Rincon De Gautier Institute For Law And Pub,High School,25%,64%,62%,6.8,6.4,6.4,6.9
+08X530,Banana Kelly High School,High School,42%,94%,64%,6.4,5.6,6,6.1
+08X537,Bronx Arena High School,Transfer High School,19%,88%,65%,8.2,7.4,8,8.3
+08X540,School For Community Research And Learning,High School,2%,50%,0%,5.8,6.4,6.6,6.8
+08X560,Bronx Academy High School,Transfer High School,7%,100%,72%,8.6,7.9,8.4,8.7
+08X650,Jane Addams High School For Academic Careers,High School,11%,47%,63%,7,6.5,6.7,7.1
+09X002,P.S. 002 Morrisania,Middle School,87%,100%,NA,8.5,7.9,7.9,8.4
+09X004,P.S./M.S. 004 Crotona Park West,Elementary/Middle School,100%,92%,92%,7.2,6.9,7,7.3
+09X011,P.S. 011 Highbridge,Elementary School,64%,58%,NA,8.6,8.3,8.2,8.5
+09X022,J.H.S. 022 Jordan L. Mott,Middle School,29%,66%,75%,7.1,7,7.2,7.6
+09X028,P.S. 028 Mount Hope,Elementary School,58%,70%,NA,6.9,6.8,6.9,7.1
+09X035,P.S. 035 Franz Siegel,Elementary School,98%,86%,NA,8.3,7.4,7.7,7.9
+09X042,P.S. 042 Claremont,Elementary School,55%,76%,NA,7.6,7.5,7.6,7.7
+09X053,P.S. 053 Basheer Quisim,Elementary School,50%,83%,NA,7.6,7.3,7.5,7.8
+09X055,P.S. 055 Benjamin Franklin,Elementary School,39%,82%,NA,7.5,7.1,7.2,7.3
+09X058,P.S. 058,Elementary School,74%,90%,NA,7.9,7.3,7.5,7.3
+09X063,P.S. 063 Author'S Academy,Elementary School,75%,100%,NA,8.2,8.1,8.3,8.5
+09X064,P.S. 064 Pura Belpre,Elementary School,48%,92%,NA,6.8,6.5,6.6,6.7
+09X070,P.S. 070 Max Schoenfeld,Elementary School,62%,68%,NA,7.9,7.3,7.4,7.6
+09X073,P.S. 073 Bronx,Elementary School,73%,81%,NA,8.2,8.2,8.1,8.2
+09X088,P.S. X088 - S. Silverstein Little Sparrow School,Early Childhood School,35%,36%,NA,8.5,7.4,7.6,8
+09X109,P.S. 109 Sedgwick,Elementary School,95%,78%,NA,8.1,7.8,7.8,8
+09X110,P.S. 110 Theodore Schoenfeld,Elementary School,43%,88%,NA,8.3,8.1,8.1,8.4
+09X114,P.S. X114 - Luis Llorens Torres Schools,Elementary School,58%,68%,NA,7.9,7.2,7.5,7.7
+09X117,I.S. 117 Joseph H. Wade,Middle School,38%,94%,92%,7.2,7,7.4,7.7
+09X126,P.S. 126 Dr Marjorie H Dunbar,Elementary School,29%,72%,100%,7,7,7.3,7.6
+09X128,Mott Hall Iii,Middle School,60%,83%,95%,7.7,7.1,7.4,8.3
+09X132,P.S. 132 Garret A. Morgan,Elementary School,56%,80%,NA,7,6.1,6.5,6.8
+09X145,J.H.S. 145 Arturo Toscanini,Middle School,76%,100%,97%,8,7.5,7.9,8.1
+09X163,P.S. 163 Arthur A. Schomburg,Elementary School,45%,32%,NA,7.6,6.9,7.1,7.5
+09X170,P.S. 170,Early Childhood School,80%,86%,NA,9.5,8.7,9,9.2
+09X199,P.S. 199X - The Shakespeare School,Elementary School,56%,63%,NA,8.1,7.8,8,8.3
+09X204,P.S. 204 Morris Heights,Elementary School,77%,100%,NA,9.1,8.7,8.8,9
+09X215,Kappa,Middle School,90%,63%,99%,7.6,6.9,7.1,7.8
+09X218,P.S./I.S. 218 Rafael Hernandez Dual Language Magne,Elementary/Middle School,65%,74%,98%,7.7,7.4,7.6,8.1
+09X219,I.S. 219 New Venture School,Middle School,27%,66%,91%,6.5,6.5,6.8,7.2
+09X227,Bronx Expeditionary Learning High School,High School,41%,100%,74%,7.9,7.7,8,8.2
+09X229,I.S. 229 Roland Patterson,Middle School,94%,66%,96%,6.9,6.5,7,7
+09X230,P.S. 230 Dr Roland N. Patterson,Elementary School,51%,33%,NA,7.6,7.2,7.3,7.5
+09X231,Eagle Academy For Young Men,Middle/High School,41%,69%,85%,7.4,7.2,7.5,7.6
+09X232,I.S. 232,Middle School,94%,94%,93%,7.2,7,7.1,7.7
+09X236,P.S. 236 Langston Hughes,Early Childhood School,83%,94%,NA,8.3,8.2,8.1,8.2
+09X239,Urban Assembly Academy For History And Citizenship,High School,21%,92%,46%,7.2,6.8,7.3,7.5
+09X241,Urban Assembly School For Applied Math And Science,Middle/High School,46%,96%,84%,7.7,7,7.1,7.7
+09X250,Eximius College Preparatory Academy: A College Boa,High School,34%,73%,82%,7.2,7,7,7.5
+09X252,Mott Hall Bronx High School,High School,19%,89%,79%,7.5,6.9,7.1,7.5
+09X260,Bronx Center For Science And Mathematics,High School,55%,81%,98%,8.1,6.9,7.5,8.2
+09X263,Validus Preparatory Academy: An Expeditionary Lear,High School,34%,88%,75%,7.6,7,7.4,7.8
+09X276,Leadership Institute,High School,49%,78%,86%,7.1,6.4,6.9,7.1
+09X297,Morris Academy For Collaborative Studies,High School,35%,89%,78%,7.3,7,7.1,7.6
+09X303,I.S. X303 Leadership & Community Service,Middle School,82%,92%,95%,8.5,7.9,8.2,8.4
+09X313,I.S. 313 School Of Leadership Development,Middle School,24%,74%,89%,6.7,6.8,7.1,7.4
+09X323,Bronx Writing Academy,Middle School,55%,92%,76%,6.7,6.8,6.9,7.5
+20K971,P.S. 971,Early Childhood School,93%,77%,NA,8.7,7.3,7.6,7.6
+09X324,Bronx Early College Academy For Teaching & Learnin,Middle/High School,25%,55%,70%,6.7,5.5,6.1,6.4
+09X325,Urban Science Academy,Middle School,59%,67%,92%,6.7,6.3,6.8,7
+09X327,Comprehensive Model School Project M.S. 327,Middle School,73%,88%,94%,7.8,7.2,7.4,8.2
+09X328,New Millennium Business Academy Middle School,Middle School,74%,88%,80%,6.8,6.5,6.9,7.4
+09X329,Dreamyard Preparatory School,High School,20%,86%,72%,7.4,6.7,7.4,7.7
+09X339,I.S. 339,Middle School,44%,71%,81%,6.4,6.3,6.7,7.1
+09X365,Academy For Language And Technology,High School,85%,96%,93%,8,7.1,7.5,8
+09X403,Bronx International High School,High School,49%,89%,94%,7.5,7,7.4,8
+09X404,School For Excellence,High School,82%,77%,83%,7.7,6.9,7.1,7.4
+09X412,Bronx High School Of Business,High School,27%,82%,83%,6.6,6.4,6.6,6.9
+09X413,Bronx High School For Medical Science,Middle/High School,33%,100%,94%,7.4,6.9,7.1,7.5
+09X414,Jonathan Levin High School For Media And Communica,High School,12%,87%,78%,6.6,6.6,6.7,7.1
+09X443,The Family School,Elementary School,68%,65%,NA,7.9,7,7.4,7.7
+09X449,Grant Avenue Elementary School,Early Childhood School,86%,88%,NA,9.3,8.9,9.2,9.2
+09X454,Science And Technology Academy: A Mott Hall School,Middle School,63%,100%,97%,7.8,7.5,7.9,8.4
+09X457,Sheridan Academy For Young Leaders,Elementary School,95%,93%,NA,8.3,7,7.5,7.7
+09X505,"Bronx School For Law, Government And Justice",Middle/High School,58%,92%,85%,7.1,6.6,6.8,7.2
+09X517,Frederick Douglass Academy Iii Secondary School,Middle/High School,83%,86%,95%,7.2,6.9,7.2,7.5
+09X525,Bronx Leadership Academy High School,High School,16%,63%,80%,7.3,6.9,7.5,7.7
+09X543,High School For Violin And Dance,High School,42%,100%,63%,6.9,6.6,6.9,7.3
+10X003,P.S. 3 Raul Julia Micro Society,Elementary/Middle School,58%,65%,95%,7.2,6.6,6.7,7.1
+10X007,P.S. 007 Kingsbridge,Elementary School,93%,100%,NA,9,8.2,8.4,8.8
+10X008,P.S. 008 Issac Varian,Elementary School,46%,89%,NA,8.8,8.3,8.5,8.6
+10X009,P.S. 9 Ryer Avenue Elementary School,Elementary School,72%,100%,NA,8,7.3,7.7,7.9
+10X015,P.S. X015 Institute For Environmental Learning,Elementary/Middle School,62%,87%,99%,7.9,7.3,7.6,8.1
+10X020,P.S. 20 P.O.George J. Werdan Iii,Elementary/Middle School,70%,87%,94%,7.5,7,7.4,7.9
+10X023,P.S. 023 The New Children'S School,Early Childhood School,57%,98%,NA,7.9,7.6,7.8,8.2
+10X024,P.S. 024 Spuyten Duyvil,Elementary School,50%,67%,NA,7.8,6.4,7,7.2
+10X032,P.S. 032 Belmont,Elementary School,91%,90%,NA,8.7,8.1,8.4,8.5
+10X033,P.S. 033 Timothy Dwight,Elementary School,74%,34%,NA,7.7,7.7,7.6,7.8
+10X037,P.S. X037 - Multiple Intelligence School,Elementary/Middle School,54%,77%,94%,7.5,7.1,7.4,7.9
+10X045,Thomas C. Giordano Middle School 45,Middle School,31%,75%,93%,6.6,6.2,6.7,7.3
+10X046,P.S. 046 Edgar Allan Poe,Elementary School,67%,94%,NA,7.8,7.5,7.6,7.7
+10X051,P.S. 051 Bronx New School,Elementary School,83%,90%,NA,8.1,7.3,7.6,8.2
+10X054,P.S. / I.S. 54,Elementary School,71%,100%,NA,7.5,7,7.3,7.3
+10X056,P.S. 056 Norwood Heights,Elementary School,96%,98%,NA,8.6,8.3,8.7,8.8
+10X059,P.S. 059 The Community School Of Technology,Elementary School,100%,100%,NA,8.3,7.5,7.8,7.9
+10X080,J.H.S. 080 The Mosholu Parkway,Middle School,25%,80%,49%,6.7,6.4,6.8,7.1
+10X081,P.S. 081 Robert J. Christen,Elementary School,93%,100%,NA,8.5,8.1,8.3,8.6
+10X085,P.S. 085 Great Expectations,Elementary School,45%,65%,NA,7.6,7.6,7.7,7.9
+10X086,P.S. 086 Kingsbridge Heights,Elementary School,55%,100%,96%,8.9,8.5,8.9,9.1
+10X091,P.S. 091 Bronx,Elementary School,66%,87%,NA,7.4,6.7,7,7.3
+10X094,P.S. 094 Kings College School,Elementary School,65%,77%,NA,7.6,7.1,7.3,7.4
+10X095,P.S. 095 Sheila Mencher,Elementary/Middle School,61%,51%,98%,6.5,6.2,6.3,6.9
+10X118,J.H.S. 118 William W. Niles,Middle School,65%,95%,96%,7.3,6.5,7.1,7.5
+10X141,Riverdale / Kingsbridge Academy (Middle School / H,Middle/High School,22%,60%,88%,6.9,6.6,6.8,7
+10X159,P.S. 159 Luis Munoz Marin Biling,Elementary School,88%,100%,NA,8.7,7.8,8,8.1
+10X205,P.S. 205 Fiorello Laguardia,Elementary School,88%,100%,NA,8.2,7.5,7.8,8
+10X206,I.S. 206 Ann Mersereau,Middle School,100%,76%,90%,7.5,7.2,7.6,8
+10X207,P.S. 207,Early Childhood School,71%,83%,NA,8.7,7.8,7.8,8.1
+10X209,P.S. 209,Early Childhood School,93%,100%,NA,9.5,8.8,9.1,9.4
+10X213,Bronx Engineering And Technology Academy,High School,26%,68%,88%,6.9,6.5,7,7.4
+10X225,Theatre Arts Production Company School,Middle/High School,19%,57%,81%,7,6.9,6.9,7.2
+10X226,P.S. 226,Elementary School,62%,52%,NA,7.9,7.1,7.2,7.2
+10X228,Jonas Bronck Academy,Middle School,58%,65%,96%,8.2,7.5,8,8.3
+10X237,"The Marie Curie School For Medicine, Nursing, And",High School,30%,39%,87%,7.1,6.5,6.3,7.1
+10X243,West Bronx Academy For The Future,Middle/High School,43%,88%,90%,6.7,6.3,6.8,7.1
+10X244,The New School For Leadership And Journalism,Middle School,27%,35%,77%,8.2,7.7,8.3,8.7
+10X246,P.S. 246 Poe Center,Elementary School,50%,47%,NA,8,7.6,7.6,8
+10X254,I.S. 254,Middle School,28%,97%,96%,6.9,6.2,6.8,7.1
+10X268,Kingsbridge International High School,High School,58%,96%,85%,7.7,7.1,7.6,8
+10X279,"P.S. 279 Captain Manuel Rivera, Jr.",Elementary/Middle School,81%,100%,99%,7.1,6.7,7.1,7.3
+10X280,P.S./M.S. 280 Mosholu Parkway,Elementary/Middle School,59%,90%,74%,7.7,7.3,7.8,8.1
+10X284,Bronx School Of Law And Finance,High School,22%,70%,82%,7.2,6.7,6.9,7.1
+10X291,P.S. 291,Elementary School,94%,100%,NA,9.2,8.5,8.9,9.1
+10X306,P.S. 306,Elementary School,70%,83%,NA,7.6,7,7.1,7.2
+10X307,P.S. X307 - Eames Place,Elementary School,100%,100%,NA,9.1,8.4,8.6,9
+10X308,Bronx Dance Academy School,Middle School,65%,100%,86%,7.2,6.5,7,7.3
+10X310,P.S. 310 Marble Hill,Elementary School,77%,100%,NA,8.4,7.8,8.1,8.2
+10X315,P.S. 315 Lab School,Elementary/Middle School,100%,79%,99%,8.5,8,8.5,8.9
+10X319,Providing Urban Learners Success In Education High,Transfer High School,1%,79%,68%,8.3,7,7.8,8.2
+10X331,The Bronx School Of Science Inquiry And Investigat,Middle School,50%,91%,85%,7.6,7.3,7.5,8
+10X340,P.S. 340,Elementary School,92%,100%,100%,8.5,7.6,8,8.5
+10X342,International School For Liberal Arts,Middle/High School,71%,93%,93%,7.8,7.1,7.5,7.7
+10X344,Ampark Neighborhood,Elementary School,55%,60%,NA,8.3,6.8,7.1,7.4
+10X360,P.S. 360,Elementary School,31%,92%,99%,7.8,6.8,7.2,7.8
+10X363,Academy For Personal Leadership And Excellence,Middle School,74%,88%,97%,7.8,7.2,7.2,7.8
+10X368,In-Tech Academy (M.S. / High School 368),Middle/High School,37%,84%,89%,7.2,6.6,6.8,7.2
+10X374,Knowledge And Power Preparatory Academy Internatio,High School,72%,96%,91%,8,7,7.4,8
+10X382,"Elementary School For Math, Science, And Technolog",Elementary School,100%,85%,NA,8,7.5,7.7,8
+10X386,School For Environmental Citizenship,Elementary School,85%,100%,NA,8.1,7.6,7.8,7.9
+10X390,M.S. 390,Middle School,76%,91%,94%,6.9,7,7.2,7.5
+10X391,The Angelo Patri Middle School,Middle School,59%,90%,86%,6.9,6.8,7.1,7.5
+10X396,P.S. 396,Elementary School,89%,98%,NA,8.2,7.9,8.1,8.2
+10X397,English Language Learners And International Suppor,High School,22%,48%,52%,7.6,7.2,7.6,8.1
+10X433,High School For Teaching And The Professions,High School,25%,88%,78%,7.3,7.1,7.4,7.7
+10X434,Belmont Preparatory High School,High School,28%,73%,52%,7.2,6.3,6.7,7.2
+10X437,Fordham High School For The Arts,High School,30%,64%,69%,7.7,7.2,7.6,7.8
+10X438,Fordham Leadership Academy For Business And Techno,High School,23%,72%,83%,6.4,6.2,6.4,6.8
+10X439,Bronx High School For Law And Community Service,High School,27%,100%,75%,7.1,6.6,6.9,7.4
+10X440,Dewitt Clinton High School,High School,17%,88%,58%,6.2,6.3,6.7,7.2
+10X442,"Celia Cruz Bronx High School Of Music, The",High School,35%,97%,81%,7.1,6.1,6.6,6.8
+10X445,Bronx High School Of Science,High School,41%,75%,97%,7.5,6.8,7,7.6
+10X447,Creston Academy,Middle School,97%,89%,96%,7.5,7.6,8,8.4
+10X459,East Fordham Academy For The Arts,Middle School,17%,88%,89%,7.4,6.7,7.3,7.5
+10X475,John F. Kennedy High School,High School,16%,81%,70%,6.1,5.9,6.3,6.3
+10X477,Marble Hill High School For International Studies,High School,57%,97%,89%,7.9,6.9,7.3,7.9
+10X503,Walton Yabc,YABC,14%,88%,80%,8.5,7.8,8.1,8.3
+10X504,Kennedy Yabc,YABC,5%,52%,90%,7.6,7,7.3,7.7
+10X524,Crotona International High School,High School,56%,88%,99%,8,7.6,7.7,8.2
+10X546,Bronx Theatre High School,High School,89%,97%,91%,8,7.6,8,8.4
+10X549,Discovery High School,High School,5%,70%,58%,7.7,7.1,7.1,7.8
+10X660,Grace Dodge Career And Technical Education High Sc,High School,14%,90%,73%,6,5.9,6.2,6.4
+10X667,Grace Dodge Yabc,YABC,10%,88%,70%,8.3,7.6,8.2,8.4
+10X696,High School Of American Studies At Lehman College,High School,31%,81%,95%,8.7,7.6,8.1,8.7
+11X016,P.S. 016 Wakefield,Elementary School,45%,100%,NA,7.5,7.2,7.5,7.7
+11X019,P.S. 019 Judith K. Weiss,Elementary/Middle School,57%,97%,99%,8.6,8,8.6,8.9
+11X021,P.S. 021 Philip H. Sheridan,Elementary School,66%,82%,NA,7.7,7.5,7.7,7.9
+11X041,P.S. 041 Gun Hill Road,Elementary School,86%,94%,NA,8.1,8.1,8.1,8.3
+11X068,P.S. 068 Bronx,Elementary School,65%,99%,NA,7.3,7.1,7.4,7.6
+11X076,P.S. 076 The Bennington School,Elementary School,57%,76%,NA,8,6.9,7.2,7.6
+11X078,P.S. 078 Anne Hutchinson,Elementary School,64%,86%,NA,8,7.8,8.1,8.4
+11X083,P.S. 083 Donald Hertz,Elementary/Middle School,62%,100%,95%,7.8,7.5,7.7,8.2
+11X087,P.S. 087 Bronx,Elementary School,60%,81%,NA,7.6,7,7.3,7.4
+11X089,P.S. 089 Bronx,Elementary/Middle School,35%,85%,85%,7.5,7.5,7.8,8.1
+11X096,P.S. 096 Richard Rodgers,Elementary School,77%,100%,NA,8.3,7.9,8,8.2
+11X097,P.S. 097 Bronx,Elementary School,44%,46%,NA,8,7.2,7.4,7.6
+11X103,P.S. 103 Hector Fontanez,Elementary School,48%,88%,NA,7.7,7.6,7.7,7.9
+11X105,P.S. 105 Sen Abraham Bernstein,Elementary School,47%,40%,NA,8,6.7,7.1,7.2
+11X106,P.S. 106 Parkchester,Elementary School,82%,97%,NA,8.3,8,8,8.3
+11X108,P.S. 108 Philip J. Abinanti,Elementary School,75%,79%,NA,8.3,6.8,7.3,7.7
+11X111,P.S. 111 Seton Falls,Elementary School,28%,71%,NA,7.6,6.9,7.3,7.4
+11X112,P.S. 112 Bronxwood,Elementary School,54%,100%,NA,8,7.6,7.8,7.9
+11X121,P.S. 121 Throop,Elementary School,90%,100%,NA,8.6,8.3,8.3,8.5
+11X127,J.H.S. 127 The Castle Hill,Middle School,29%,62%,86%,6.9,6.8,7.1,7.4
+11X142,Ms 142 John Philip Sousa,Middle School,34%,100%,94%,6,5.9,6.3,6.7
+11X144,J.H.S. 144 Michelangelo,Middle School,32%,86%,95%,7.1,7.4,7.6,8
+11X153,P.S. 153 Helen Keller,Elementary School,57%,100%,NA,8.5,7.8,7.8,8.2
+11X160,P.S. 160 Walt Disney,Elementary School,50%,100%,NA,7.8,7.3,7.3,7.4
+11X169,Baychester Academy,Early Childhood School,80%,100%,NA,8.8,8.1,8.1,8.4
+11X175,P.S. 175 City Island,Elementary/Middle School,61%,100%,100%,7.7,6.9,7.2,8
+11X178,P.S. 178 - Dr. Selman Waksman,Elementary School,61%,100%,NA,7.8,6.9,6.9,7.2
+11X180,M.S. 180 Dr. Daniel Hale Williams,Middle School,68%,53%,97%,7.8,7.1,7.6,8
+11X181,I.S. 181 Pablo Casals,Middle School,58%,66%,90%,7.4,7,7.4,7.9
+11X189,Cornerstone Academy For Social Action,Elementary School,51%,69%,NA,7.5,7.6,7.6,7.8
+11X194,Ps/Ms 194,Elementary/Middle School,72%,98%,97%,7.5,6.9,7.2,7.7
+11X249,Bronx Health Sciences High School,High School,11%,81%,80%,7.6,6.7,6.6,7.6
+11X253,Bronx High School For Writing And Communication Ar,High School,24%,85%,59%,6.7,6.3,6.7,7
+11X265,Bronx Lab School,High School,43%,97%,91%,7.3,7,7.3,7.5
+11X270,Academy For Scholarship And Entrepreneurship: A Co,Middle/High School,33%,76%,80%,6.5,6,6.1,6.6
+11X272,Globe School For Environmental Research,Middle School,40%,92%,94%,6.6,6.7,7,7.5
+11X275,High School Of Computers And Technology,High School,43%,82%,87%,7.8,7.3,7.6,8
+11X287,The Forward School,Middle School,72%,73%,97%,6.5,6.6,6.7,7.3
+11X288,Collegiate Institute For Math And Science,High School,55%,96%,95%,7.6,7.4,7.6,8.2
+11X289,The Young Scholars Academy Of The Bronx,Middle School,61%,96%,82%,6.2,6.5,6.8,7.3
+11X290,Bronx Academy Of Health Careers,High School,26%,100%,79%,7,7,7.1,7.6
+11X299,Astor Collegiate Academy,High School,22%,100%,89%,6.9,6.8,7,7.4
+11X322,Aspire Preparatory Middle School,Middle School,61%,86%,96%,6.8,6.2,6.3,6.7
+11X326,Bronx Green Middle School,Middle School,59%,97%,92%,7.4,7.2,7.5,7.7
+11X370,School Of Diplomacy,Middle School,3%,94%,64%,6.4,6.5,6.9,7.2
+11X415,Christopher Columbus High School,High School,20%,80%,66%,7.3,6.9,7.3,7.4
+11X417,C Columbus Hs Yabc,YABC,74%,95%,78%,8.3,7.9,8.4,8.5
+11X418,Bronx High School For The Visual Arts,High School,28%,71%,66%,7.5,6.6,6.9,7.1
+11X455,Harry S Truman High School,High School,5%,53%,42%,6.9,6.3,6.8,7.2
+11X462,Cornerstone Academy For Social Action Middle Schoo,Middle School,84%,63%,83%,7.6,7.5,7.9,8.3
+11X468,Pelham Academy Of Academics And Community Engageme,Middle School,55%,100%,97%,8,7,7.5,8
+11X498,Ps/Ms 11X498 - Van Nest Academy,Elementary/Middle School,88%,100%,99%,8.5,7.9,8.4,8.5
+11X508,Bronxdale High School,High School,25%,67%,66%,6.6,6.7,6.6,6.9
+11X509,High School For Language And Innovation,High School,96%,100%,100%,8.7,7.8,8,8.2
+11X513,New World High School,High School,29%,58%,93%,7.8,6.9,7.3,8
+11X514,The Bronxwood Preparatory Academy,High School,25%,88%,70%,7.4,6.9,7.1,7.5
+11X529,One World Middle School At Edenwald,Middle School,72%,100%,94%,8.2,7.6,8.1,8.4
+11X532,Baychester Middle School,Middle School,63%,89%,93%,7.6,7.2,7.4,7.8
+11X541,Global Enterprise High School,High School,18%,57%,66%,6.4,6.1,6.7,7
+11X542,Pelham Preparatory Academy,High School,68%,96%,91%,7.7,7.4,7.6,8.1
+11X544,High School For Contemporary Arts,High School,80%,58%,60%,7.4,6.7,7.3,7.4
+11X545,Bronx Aerospace High School,High School,31%,86%,82%,6.5,6.3,6.5,6.9
+12X006,P.S. 006 West Farms,Elementary School,53%,93%,NA,7.6,7.5,7.6,7.7
+12X044,P.S. 044 David C. Farragut,Elementary School,56%,93%,NA,6.2,5.8,6,6.1
+12X047,P.S. 047 John Randolph,Elementary School,80%,91%,NA,8.5,8.4,8.4,8.7
+12X050,P.S. 050 Clara Barton,Elementary School,80%,79%,NA,6.6,6,6.3,6.3
+12X057,P.S. 057 Crescent,Elementary School,72%,100%,NA,7.7,6.7,6.9,7.5
+12X061,P.S. 061 Francisco Oller,Elementary School,31%,58%,NA,8.3,8,8,8.3
+12X066,P.S. 066 School Of Higher Expectations,Elementary School,97%,93%,NA,8.2,7.6,7.9,8
+12X067,P.S. 067 Mohegan School,Elementary School,26%,76%,NA,7.3,7.3,7.4,7.6
+12X092,P.S. 092 Bronx,Elementary School,57%,80%,NA,6.9,6.3,6.7,6.7
+12X098,J.H.S. 098 Herman Ridder,Middle School,76%,100%,94%,7,6.9,7.2,7.6
+12X102,P.S. 102 Joseph O. Loretan,Elementary School,12%,28%,NA,7.4,6.6,7.2,7.1
+12X129,P.S. 129 Twin Parks Upper,Middle School,64%,88%,89%,7.3,7.2,7.7,8
+12X134,P.S. 134 George F. Bristow,Elementary School,92%,90%,NA,7.5,7.1,7.3,7.4
+12X150,P.S. 150 Charles James Fox,Elementary School,79%,95%,NA,8.2,8.1,8.2,8.3
+12X190,E.S.M.T- I.S. 190,Middle School,66%,55%,99%,7.8,7,7.7,7.8
+12X195,P.S. 195,Elementary School,64%,50%,NA,8.1,7.4,7.7,7.8
+12X196,P.S. 196,Elementary School,81%,53%,NA,8.3,7.4,7.7,7.9
+12X198,P.S. 198,Middle School,51%,64%,NA,8,7.7,7.9,7.9
+12X211,P.S. 211,Elementary/Middle School,88%,88%,98%,7.3,6.9,7.4,7.8
+12X212,P.S. 212,Elementary/Middle School,33%,84%,99%,7.6,7,7.5,7.9
+12X214,P.S. 214,Elementary/Middle School,95%,100%,98%,7.4,7.2,7.4,8
+12X217,School Of Performing Arts,Middle School,75%,64%,63%,7.5,7.3,8,8.3
+12X242,Mott Hall V,Middle/High School,58%,63%,85%,7.5,6.8,7.1,7.5
+12X245,New Day Academy,Middle/High School,11%,0%,0%,7.3,6.8,7,7.4
+12X248,"Metropolitan High School, The",High School,16%,92%,56%,8.1,7.6,7.9,8.2
+12X251,Explorations Academy,High School,27%,78%,79%,7.3,7,7.2,7.6
+12X262,Performance Conservatory High School,High School,14%,78%,69%,6.7,5.9,6.1,6.4
+12X267,Bronx Latin,Middle/High School,74%,100%,98%,8.2,7.6,7.5,8.2
+12X271,East Bronx Academy For The Future,Middle/High School,26%,66%,46%,7.2,7.2,7.6,7.8
+12X273,Frederick Douglass Academy V. Middle School,Middle School,65%,100%,96%,7.7,7.6,7.9,8.3
+12X278,Peace And Diversity Academy,High School,91%,84%,95%,8.3,7.3,8.4,8.2
+12X286,Fannie Lou Hamer Middle School,Middle School,39%,95%,88%,8.1,7.8,8.2,8.6
+12X300,The School Of Science And Applied Learning,Elementary School,44%,87%,NA,8.1,7.8,7.9,8.1
+12X316,Kappa Iii,Middle School,88%,95%,92%,8.3,7.7,8.2,8.4
+12X318,"I.S. X318 Math, Science & Technology Through Arts",Middle School,77%,100%,95%,7.2,7,7.2,7.6
+12X341,Accion Academy,Middle School,71%,100%,96%,7.4,7,7.4,7.7
+12X372,Urban Assembly School For Wildlife Conservation,Middle/High School,42%,100%,92%,7.4,7.1,7.1,7.6
+12X383,Emolior Academy,Middle School,78%,71%,85%,8.5,8.6,8.5,8.6
+12X384,Entrada Academy,Middle School,67%,60%,99%,7.1,6.8,7.5,7.7
+12X388,Pan American International High School At Monroe,High School,49%,86%,89%,7.7,7.1,7.5,7.7
+12X428,Learning To Work Yabc At Monroe Academy,YABC,21%,90%,41%,8.7,8,8.4,8.5
+12X446,Arturo A. Schomburg Satellite Academy Bronx,Transfer High School,79%,100%,76%,8.1,7.4,7.6,7.9
+12X463,Urban Scholars Community School,Elementary School,54%,70%,NA,7.9,8,8.1,8.3
+12X478,The Cinema School,High School,22%,93%,93%,8.8,8.1,8.5,8.9
+12X479,Bronx Career And College Preparatory High School,High School,48%,100%,83%,6.7,6.2,6.5,6.8
+12X480,Bronx Regional High School,Transfer High School,13%,67%,46%,7.6,6.6,7,7.4
+12X511,Bronx Envision Academy,High School,49%,100%,94%,7.6,7.7,7.7,8.2
+12X521,The Metropolitan Soundview High School,High School,34%,89%,79%,8,7.6,7.8,8.3
+12X531,Archer Elementary School,Early Childhood School,58%,100%,NA,9,8.7,8.9,9
+12X536,Ps 536,Early Childhood School,80%,81%,NA,8.6,8.2,8.3,8.4
+12X550,High School Of World Cultures,High School,100%,100%,92%,7.9,6.5,7,7.1
+12X682,Fannie Lou Hamer Freedom High School,High School,46%,91%,73%,8.1,7.5,7.7,7.9
+12X684,Wings Academy,High School,59%,77%,82%,7,6.5,7.1,7.4
+12X690,Monroe Academy For Business/Law,High School,36%,100%,81%,6.6,5.9,5.9,6.6
+12X691,Bronx Little School,Elementary School,50%,57%,NA,8.2,7.5,7.6,7.7
+12X692,Monroe Academy For Visual Arts & Design,High School,9%,84%,79%,7.3,6.6,7,7.4
+13K003,P.S. 003 The Bedford Village,Elementary School,75%,95%,NA,8.4,8.2,8.3,8.5
+13K008,P.S. 008 Robert Fulton,Elementary School,53%,93%,NA,8.5,7.6,8,8.2
+13K009,P.S. 009 Teunis G. Bergen,Elementary School,88%,91%,NA,8.8,8.4,8.8,8.7
+13K011,P.S. 011 Purvis J. Behan,Elementary School,71%,66%,NA,8.8,7.8,8.4,8.4
+13K020,P.S. 020 Clinton Hill,Elementary School,47%,100%,NA,8.2,7.8,8,7.9
+13K044,P.S. 044 Marcus Garvey,Elementary School,46%,93%,NA,8.3,7.8,8.1,8.4
+13K046,P.S. 046 Edward C. Blum,Elementary School,71%,83%,NA,7.7,7.4,7.7,7.6
+13K054,P.S. 054 Samuel C. Barnes,Elementary School,51%,83%,NA,8.2,7.7,8.1,8.2
+13K056,P.S. 056 Lewis H. Latimer,Elementary School,73%,73%,NA,8.8,8.2,8.7,8.8
+13K067,P.S. 067 Charles A. Dorsey,Elementary School,38%,86%,NA,8.4,7.1,7.7,7.9
+13K093,P.S. 093 William H. Prescott,Elementary School,46%,93%,NA,8.1,7.5,7.6,7.6
+13K103,Satellite Three,Middle School,69%,95%,95%,7.4,7.2,7.4,7.6
+13K113,M.S. 113 Ronald Edmonds Learning Center,Middle School,15%,95%,87%,7.2,6.9,7.1,7.4
+13K133,P.S. 133 William A. Butler,Elementary School,69%,97%,NA,8.6,7.9,8.2,8.3
+13K256,P.S. 256 Benjamin Banneker,Elementary School,84%,93%,NA,8.5,7.5,8,8.1
+13K265,Dr. Susan S. Mckinney Secondary School Of The Arts,Middle/High School,35%,44%,69%,7.3,6.7,7.1,7.5
+13K266,M.S. K266 - Park Place Community Middle School,Middle School,18%,92%,88%,7.9,7.5,7.8,7.9
+13K270,P.S. 270 Johann Dekalb,Elementary School,50%,94%,NA,8,7.3,7.9,7.9
+13K282,P.S. 282 Park Slope,Elementary/Middle School,39%,57%,97%,7.1,6.6,7.2,7.5
+13K287,P.S. 287 Bailey K. Ashford,Elementary School,73%,45%,NA,7.6,6.4,6.7,6.8
+13K301,Satellite East Middle School,Middle School,36%,65%,85%,7.9,7.3,7.8,8.2
+13K305,P.S. 305 Dr. Peter Ray,Elementary School,61%,91%,NA,7.3,6.8,7.1,7.4
+13K307,P.S. 307 Daniel Hale Williams,Elementary School,46%,82%,NA,8.1,7.7,8.1,8.2
+13K313,Satellite West Middle School,Middle School,41%,46%,82%,6.6,6.6,6.7,7.1
+13K336,Academy Of Business And Community Development,Middle/High School,32%,71%,83%,6.7,5.8,6.1,6.3
+13K350,Urban Assembly High School Of Music And Art,High School,13%,69%,50%,7.2,6.7,6.9,7.3
+13K412,"Brooklyn Community High School Of Communication, A",High School,14%,94%,84%,7.2,7,7.2,7.4
+13K419,"Science Skills Center High School For Science, Tec",High School,33%,94%,80%,7,7,7,7.4
+13K430,Brooklyn Technical High School,High School,6%,40%,85%,7.2,5.7,6.3,6.9
+13K439,Brooklyn International High School,High School,85%,100%,93%,8.8,8.1,8.5,8.7
+13K483,The Urban Assembly School For Law And Justice,High School,38%,79%,89%,7.7,7.3,7.4,7.9
+13K492,Urban Assembly Academy Of Arts And Letters,Elementary/Middle School,76%,89%,97%,8.3,8.1,8.1,8.3
+13K499,Acorn Community High School,High School,12%,77%,65%,7.4,7.3,7.6,7.8
+13K509,Freedom Academy High School,High School,24%,87%,73%,6.5,6.4,6.5,6.8
+13K527,Urban Assembly Institute Of Math And Science For Y,Middle/High School,45%,100%,96%,7.2,6.4,6.7,7.1
+13K553,Brooklyn Academy High School,Transfer High School,34%,69%,97%,8.5,6.8,7.4,7.7
+13K571,M.S. 571,Middle School,33%,11%,96%,7.3,7.1,7.3,7.8
+13K575,Bedford Stuyvesant Preparatory High School,Transfer High School,26%,92%,52%,8.2,7.1,7.6,7.7
+13K592,Khalil Gibran International Academy,Middle School,35%,100%,80%,8.2,7.7,8.4,8.7
+13K595,Bedford Academy High School,High School,53%,96%,91%,8.2,7.9,8,8.5
+13K596,Knowledge And Power Preparatory Academy Vii Middle,Middle School,36%,82%,79%,5.9,6,6.2,6.4
+13K605,George Westinghouse Career And Technical Education,High School,41%,95%,75%,6.3,6.2,6.4,6.6
+13K616,Brooklyn High School For Leadership And Community,Transfer High School,21%,100%,65%,7.8,7.4,8.1,8.4
+13K657,Downtown Brooklyn Yabc,YABC,7%,89%,66%,8.3,7.7,8.3,8.5
+13K670,Benjamin Banneker Academy,High School,17%,63%,71%,7.4,6.4,7.1,7.5
+13K674,"City Polytechnic High School Of Engineering, Archi",High School,25%,96%,83%,7.3,7.2,7.4,8
+13K691,Fort Greene Preparatory Academy,Middle School,34%,67%,90%,7.7,7.5,7.8,8.3
+14K016,P.S. 016 Leonard Dunkly,Elementary School,100%,100%,NA,8.6,7.8,7.9,7.9
+14K017,P.S. 017 Henry D. Woodworth,Elementary School,76%,77%,NA,8.1,7.2,7.3,7.5
+14K018,P.S. 018 Edward Bush,Elementary School,91%,100%,NA,8.4,7.7,7.8,7.7
+14K019,P.S. 019 Roberto Clemente,Elementary School,55%,68%,NA,7.9,6.4,7.1,6.7
+14K023,P.S. 023 Carter G. Woodson,Elementary School,93%,91%,NA,9,8.4,8.8,8.9
+14K031,P.S. 031 Samuel F. Dupont,Elementary School,82%,82%,NA,9.1,8.3,8.2,8.8
+14K034,P.S. 034 Oliver H. Perry,Elementary School,92%,100%,NA,9.3,8.7,8.8,9.1
+14K050,J.H.S. 050 John D. Wells,Middle School,52%,94%,95%,6.6,6.6,6.9,7.4
+14K059,P.S. 059 William Floyd,Elementary School,60%,87%,NA,7.8,7.2,7.5,7.6
+14K071,Juan Morel Campos Secondary School,Middle/High School,16%,80%,71%,6.9,6.6,7.1,7.2
+14K084,P.S. 084 Jose De Diego,Elementary School,63%,67%,NA,8.5,7.9,8,8.1
+14K110,P.S. 110 The Monitor,Elementary School,91%,89%,NA,9.2,8.5,8.9,8.8
+14K120,P.S. 120 Carlos Tapia,Elementary School,38%,79%,NA,8.9,8.2,8.4,8.3
+14K126,John Ericsson Middle School 126,Middle School,81%,70%,94%,6.9,6.5,6.7,7.1
+14K132,P.S. 132 The Conselyea School,Elementary School,82%,100%,NA,8.4,7.9,8,8.2
+14K147,P.S. 147 Isaac Remsen,Elementary School,100%,94%,NA,8.6,8.1,8.4,8.5
+14K157,P.S. 157 Benjamin Franklin,Elementary School,81%,97%,98%,8.3,7.9,8.4,8.4
+14K196,P.S. 196 Ten Eyck,Elementary School,73%,88%,NA,8.3,8.4,8.4,8.6
+14K250,P.S. 250 George H. Lindsay,Elementary School,66%,48%,NA,8.2,6.8,7.2,7.6
+14K257,P.S. 257 John F. Hylan,Elementary School,67%,90%,NA,9.3,8.9,9.1,9.2
+14K297,P.S. 297 Abraham Stockton,Elementary School,68%,100%,NA,8,7.9,7.7,7.9
+14K318,I.S. 318 Eugenio Maria De Hostos,Middle School,24%,73%,82%,8.6,8.1,8.6,8.9
+14K319,P.S. 319,Early Childhood School,100%,93%,NA,9.4,8.9,9.1,9.2
+14K322,Foundations Academy,High School,23%,77%,65%,6.7,6.1,6.2,6.7
+14K330,The Urban Assembly School For The Urban Environmen,Middle School,23%,78%,65%,6.7,5.9,6.4,6.7
+14K380,P.S. 380 John Wayne Elementary,Elementary School,100%,100%,NA,9.2,8.8,8.9,9.2
+14K404,Academy For Young Writers,High School,16%,96%,80%,7.5,6.9,7.3,7.8
+14K449,"Brooklyn Latin School, The",High School,29%,83%,98%,8.5,7.6,7.8,8.6
+14K454,Green School: An Academy For Environmental Careers,High School,23%,100%,58%,6.9,6.9,6.9,7.3
+14K474,Progress High School For Professional Careers,High School,24%,75%,41%,7.6,7,7.5,7.8
+14K477,School For Legal Studies,High School,22%,76%,52%,7.5,6.7,7.2,7.5
+14K478,"The High School For Enterprise, Business And Techn",High School,26%,88%,79%,7.3,6.7,7,7.4
+14K488,Brooklyn Preparatory High School,High School,27%,100%,80%,7.4,6.7,7,7.5
+14K558,Williamsburg High School For Architecture And Desi,High School,69%,100%,95%,8.1,7.5,7.8,8.2
+14K561,Williamsburg Preparatory School,High School,30%,93%,82%,8,7.6,7.8,8.3
+14K577,Conselyea Preparatory School,Middle School,94%,96%,80%,8,7.7,8.1,8.4
+14K582,M.S. 582,Middle School,38%,93%,91%,7.2,6.9,7.2,7.7
+14K586,Lyons Community School,Middle/High School,28%,98%,81%,7.4,7.6,7.8,8.2
+14K610,Automotive High School,High School,6%,59%,53%,5.7,5.9,6.1,6.5
+14K614,Young Women'S Leadership School Of Brooklyn,Middle/High School,72%,100%,95%,8,7.6,7.9,8.2
+14K632,Frances Perkins Academy,High School,13%,89%,66%,7.1,6.8,7.3,7.4
+14K685,El Puente Academy For Peace And Justice,High School,63%,100%,85%,8.3,7.4,8,8.2
+14K923,Automotive High School Yabc,YABC,8%,100%,93%,8.3,7.4,8.1,8.3
+15K001,P.S. 001 The Bergen,Elementary School,49%,81%,NA,8.1,7,7.2,7.5
+15K010,"Magnet School Of Math, Science And Design Technolo",Elementary School,59%,100%,NA,8.8,8.3,8.7,8.6
+15K015,P.S. 015 Patrick F. Daly,Elementary School,77%,74%,NA,8.6,7.8,8.4,8.3
+15K024,P.S. 024,Elementary School,42%,93%,NA,8.2,7.2,7.5,7.6
+15K029,P.S. 029 John M. Harrigan,Elementary School,48%,87%,NA,8.7,8.4,8.5,8.5
+15K032,P.S. 032 Samuels Mills Sprole,Elementary School,77%,98%,NA,8.2,7.7,8.1,8.3
+15K038,P.S. 038 The Pacific,Elementary School,83%,41%,NA,8.4,7.7,8.1,8.3
+15K039,P.S. 039 Henry Bristow,Elementary School,83%,96%,NA,9,8.1,8.3,8.6
+15K051,M.S. 51 William Alexander,Middle School,63%,98%,97%,7.9,6.9,7.6,7.9
+15K058,P.S. 058 The Carroll,Elementary School,60%,86%,NA,8.6,8,8.4,8.4
+15K088,J.H.S. 088 Peter Rouget,Middle School,34%,37%,93%,7.9,7.3,7.7,8.1
+15K094,P.S. 094 The Henry Longfellow,Elementary School,65%,84%,NA,7.7,6.5,6.8,6.9
+15K107,P.S. 107 John W. Kimball,Elementary School,84%,91%,NA,8.8,8.3,8.5,8.6
+15K124,P.S. 124 Silas B. Dutcher,Elementary School,66%,64%,NA,8.6,7.5,7.6,7.8
+15K130,P.S. 130 The Parkside,Elementary School,82%,76%,NA,8.3,7.5,7.8,7.9
+15K131,P.S. 131 Brooklyn,Elementary School,60%,100%,NA,8.6,7.7,7.9,8.4
+15K136,I.S. 136 Charles O. Dewey,Middle School,29%,64%,90%,7.2,6.9,7.3,7.7
+15K146,P.S. 146,Elementary School,57%,98%,NA,8.8,8.4,8.9,8.8
+15K154,Magnet School For Science & Technology,Elementary School,53%,68%,NA,8.3,7.7,8.4,8.3
+15K169,P.S. 169 Sunset Park,Elementary School,64%,66%,NA,8.2,7.2,7.5,7.5
+15K172,P.S. 172 Beacon School Of Excellence,Elementary School,100%,95%,NA,9,8.5,8.6,8.8
+15K230,P.S. 230 Doris L. Cohen,Elementary School,78%,91%,NA,8.9,7.8,8.2,8.3
+15K261,P.S. 261 Philip Livingston,Elementary School,48%,53%,NA,8,7.6,8,7.9
+15K295,P.S. 295,Elementary School,88%,97%,NA,8.6,8.2,8.3,8.4
+15K321,P.S. 321 William Penn,Elementary School,48%,85%,NA,8.6,8.6,8.6,8.9
+15K418,P.S. 372 -The Children'S School,Elementary School,37%,72%,NA,8.4,7.7,8.4,8.1
+15K423,Brooklyn Frontiers High School,High School,27%,100%,89%,8,7.3,7.6,8.2
+15K429,Brooklyn School For Global Studies,Middle/High School,17%,94%,81%,7,6.1,6.5,6.9
+15K442,New Horizons School,Middle School,46%,96%,96%,7.6,7,7.4,7.7
+15K443,New Voices School Of Academic & Creative Arts,Middle School,42%,84%,95%,8.3,7.3,7.7,8.1
+15K447,The Math & Science Exploratory School,Middle School,56%,100%,99%,7.8,7.4,7.6,8.1
+15K448,Brooklyn Secondary School For Collaborative Studies,Middle/High School,33%,84%,86%,7.3,6.9,7.3,7.6
+15K462,Secondary School For Law,Middle/High School,51%,84%,89%,7.2,6.7,6.8,7.4
+15K463,Secondary School For Journalism,Middle/High School,35%,58%,83%,6.8,6.3,6.3,7
+15K464,Park Slope Collegiate,Middle/High School,12%,72%,75%,7.1,6.5,7,7.5
+15K497,School For International Studies,Middle/High School,30%,97%,86%,7.4,6.8,7,7.5
+15K519,Cobble Hill School Of American Studies,High School,33%,98%,62%,7,6.7,7,7.3
+15K520,Pacific High School,Transfer High School,7%,80%,63%,8.2,6.5,8.1,8
+15K529,West Brooklyn Community High School,Transfer High School,83%,100%,84%,8.7,8.1,8.4,8.6
+15K530,Metropolitan Corporate Academy High School,High School,22%,100%,56%,7,6.8,7,7.2
+15K656,Brooklyn High School Of The Arts,High School,17%,88%,87%,6.9,5.9,6.2,6.7
+15K667,Sunset Park High School,High School,34%,96%,81%,7.6,7.2,7.6,7.9
+15K676,Red Hook Neighborhood School,Elementary School,47%,83%,NA,7.8,7.1,7.4,7.8
+15K684,Millennium Brooklyn Hs,High School,45%,100%,99%,8.4,8.1,8.2,8.4
+15K698,South Brooklyn Community High School,Transfer High School,10%,91%,64%,8.3,7.3,7.7,8
+15K821,Sunset Park Prep,Middle School,41%,85%,77%,7.8,6.7,7,7.4
+16K005,P.S. 005 Dr. Ronald Mcnair,Elementary School,65%,70%,NA,7.5,7.3,7.4,7.4
+16K021,P.S. 021 Crispus Attucks,Elementary School,82%,64%,NA,8.4,7.7,7.9,8.2
+16K025,P.S. 025 Eubie Blake School,Elementary School,65%,100%,NA,7.7,7.7,7.9,8.2
+16K026,P.S. 026 Jesse Owens,Elementary School,63%,82%,NA,8.6,8,8.4,8.4
+16K028,P.S. 028 The Warren Prep Academy,Elementary School,78%,91%,NA,8.3,7.4,8,8.1
+16K035,M.S. 035 Stephen Decatur,Middle School,96%,100%,100%,8.7,8.7,8.8,8.9
+16K040,P.S. 040 George W. Carver,Elementary School,73%,100%,NA,8.6,8.2,8.5,8.5
+16K057,J.H.S. 057 Whitelaw Reid,Middle School,78%,100%,91%,8,7.5,8.1,8.2
+16K081,P.S. 081 Thaddeus Stevens,Elementary School,58%,95%,NA,8.1,7.8,7.9,8.1
+16K243,P.S. 243K- The Weeksville School,Elementary School,32%,78%,NA,7.8,7.2,7.3,7.5
+16K262,P.S. 262 El Hajj Malik El Shabazz Elementary Schoo,Elementary/Middle School,50%,74%,79%,7.9,7.7,7.7,8.1
+16K267,"M.S. 267 Math, Science & Technology",Middle School,55%,100%,98%,8,7.9,8.1,8.4
+16K308,P.S. 308 Clara Cardwell,Elementary/Middle School,32%,92%,75%,7.4,7.4,7.6,8.1
+16K309,P.S. 309 The George E. Wibecan Preparatory Academy,Elementary School,47%,70%,NA,7.6,7,7.2,7.1
+16K335,P.S. 335 Granville T. Woods,Elementary School,64%,81%,NA,8,7.8,8,8.3
+16K385,"School Of Business, Finance And Entrepreneurship",Middle School,15%,80%,88%,6.8,6.8,6.9,7.2
+16K393,Frederick Douglass Academy Iv Secondary School,Middle/High School,37%,91%,73%,6.4,5.9,6.3,6.6
+16K455,Boys And Girls High School,High School,15%,46%,18%,6.8,7.1,7.2,7.2
+16K498,Brooklyn High School For Law And Technology,High School,17%,65%,72%,7.6,7,7.3,7.7
+16K534,Upper School @ P.S. 25,Middle School,25%,79%,95%,6,5.9,6.2,6.5
+16K584,M.S. 584,Middle School,47%,90%,96%,7.1,7,7.4,7.8
+16K594,Gotham Professional Arts Academy,High School,12%,100%,85%,7.3,7.3,7.8,8.1
+16K627,Brighter Choice Community School,Elementary School,100%,100%,NA,9,8.6,8.7,8.9
+16K628,Brooklyn Brownstone School,Elementary School,100%,91%,NA,8,8.5,8.6,8.6
+16K636,Young Scholars' Academy For Discovery And Explorat,Elementary School,100%,94%,NA,8.9,9,9.1,9.2
+16K688,The Brooklyn Academy Of Global Finance,High School,15%,100%,62%,4.7,4.7,4.8,5.3
+17K002,M.S. 002,Middle School,40%,66%,89%,7.4,7.4,7.6,7.9
+17K006,P.S. 006,Elementary School,24%,31%,NA,8.5,8.1,8.3,8.3
+17K012,P.S. 012,Elementary School,36%,39%,NA,7.9,7.4,7.8,8
+17K022,P.S. 022,Elementary School,29%,26%,NA,7.3,6.9,6.9,6.9
+17K061,M.S. 061 Dr. Gladstone H. Atwell,Middle School,61%,78%,86%,6.9,6.8,7.3,7.8
+17K091,P.S. 091 The Albany Avenue School,Elementary School,79%,96%,NA,7.7,7.6,7.7,7.9
+17K092,P.S. 092 Adrian Hegeman,Elementary School,41%,26%,NA,8,7.4,7.5,7.6
+17K122,Pathways In Technology Early College High School (,High School,45%,100%,82%,8,7.3,7.6,8.2
+17K138,P.S. 138 Brooklyn,Elementary/Middle School,51%,72%,87%,7.5,7.6,8.1,8.5
+17K161,P.S. 161 The Crown,Elementary/Middle School,51%,94%,81%,6.9,7.2,7.3,7.6
+17K167,P.S. 167 The Parkway,Elementary School,37%,34%,NA,7.5,7.1,7.1,7.5
+17K181,P.S. 181 Brooklyn,Elementary/Middle School,32%,39%,91%,6.7,6.4,6.6,7.1
+17K189,P.S. 189 Lincoln Terrace,Elementary/Middle School,61%,94%,85%,7.7,7.2,7.5,8.1
+17K191,P.S. 191 Paul Robeson,Elementary School,37%,41%,NA,8.4,7.6,8,8.1
+17K221,P.S. 221 Toussaint L'Ouverture,Elementary School,50%,59%,NA,8.3,8.3,8.4,8.5
+17K241,P.S. 241 Emma L. Johnston,Elementary School,64%,68%,NA,8.1,7.7,8,8.1
+17K246,M.S. 246 Walt Whitman,Middle School,41%,74%,84%,6.8,6.5,7,7.3
+17K249,P.S. 249 The Caton,Early Childhood School,100%,96%,NA,9.2,8.9,9.1,9.2
+17K289,P.S. 289 George V. Brower,Elementary School,57%,33%,NA,7.7,7.3,7.4,7.7
+17K316,P.S. 316 Elijah Stroud,Elementary School,61%,92%,NA,8.1,7.5,7.8,7.8
+17K334,Middle School For Academic And Social Excellence,Middle School,54%,83%,87%,7.4,7,7.5,7.9
+17K340,I.S. 340,Middle School,45%,83%,95%,7.3,7.1,7.2,7.7
+17K352,Ebbets Field Middle School,Middle School,73%,94%,92%,6.7,6.3,6.7,7
+17K353,Elijah Stroud Middle School,Middle School,86%,71%,98%,7.5,7.2,7.5,8
+17K354,The School Of Integrated Learning,Middle School,92%,96%,98%,7.9,7.9,8.2,8.6
+17K375,P.S. 375 Jackie-Robinson School,Elementary School,83%,95%,NA,8.7,8.3,8.6,8.6
+17K382,Academy For College Preparation And Career Explora,Middle/High School,13%,90%,83%,6.4,6.4,6.5,6.9
+17K394,M.S. K394,Elementary/Middle School,44%,92%,97%,8,7.5,7.8,8.3
+17K397,P.S. 397 Foster-Laurie,Elementary School,62%,86%,NA,8.4,7.4,7.8,8.2
+17K398,P.S. 398 Walter Weaver,Elementary School,52%,69%,NA,7.1,6.7,7.2,7.1
+17K399,P.S. 399 Stanley Eugene Clark,Elementary School,46%,57%,NA,8.2,7.1,7.6,7.7
+17K408,Academy Of Hospitality And Tourism,High School,59%,78%,77%,6.1,6.6,6.8,7.3
+17K467,Erasmus Yabc,YABC,78%,95%,91%,8.3,7.4,8,8.2
+17K484,Ronald Edmonds Learning Center Ii,Middle School,8%,43%,81%,7.2,6.9,7.3,8.1
+17K489,W.E.B. Dubois Academic High School,Transfer High School,25%,83%,76%,7.2,6.6,6.9,7.3
+17K524,International High School At Prospect Heights,High School,37%,88%,84%,8.2,7.3,7.8,8
+17K528,The High School For Global Citizenship,High School,25%,100%,63%,6.7,6.6,6.5,6.9
+17K531,"School For Human Rights, The",Middle/High School,47%,100%,97%,8.1,7.7,8.1,8.4
+17K533,School For Democracy And Leadership,Middle/High School,48%,85%,82%,6.2,6.5,6.5,6.9
+17K537,High School For Youth And Community Development At,High School,57%,91%,86%,6.7,6.7,7.1,7.5
+17K539,High School For Service & Learning At Erasmus,High School,41%,92%,88%,6.9,6.9,7.1,7.6
+17K543,"Science, Technology And Research Early College Hig",Middle/High School,95%,100%,94%,8.1,7.1,7.7,7.8
+17K544,International Arts Business School,High School,12%,97%,62%,6.3,6.4,6.4,6.9
+17K546,High School For Public Service: Heroes Of Tomorrow,High School,28%,100%,89%,8.3,7.4,7.9,8.3
+17K547,Brooklyn Academy Of Science And The Environment,High School,24%,86%,76%,6.6,6.4,6.4,7
+17K548,Brooklyn School For Music & Theatre,High School,45%,73%,89%,6.9,6.5,7,7.3
+17K568,Brownsville Academy High School,Transfer High School,47%,87%,62%,8.6,8.3,8.4,8.7
+17K587,Middle School For The Arts,Middle School,19%,100%,73%,6.2,6.2,6.6,6.7
+17K590,Medgar Evers College Preparatory School,Middle/High School,38%,33%,86%,7.5,7,7.2,7.9
+17K600,Clara Barton High School,High School,26%,77%,82%,6.9,6.1,6.6,7
+17K625,Paul Robeson High School,High School,11%,75%,47%,6.7,5.9,6.3,6.5
+17K751,Academy For Health Careers,High School,28%,100%,86%,7.3,6.8,6.9,7.5
+17K770,P.S. 770 New American Academy,Early Childhood School,87%,82%,NA,8.7,8.2,8.5,8.6
+18K066,P.S. 66,Elementary/Middle School,51%,98%,94%,7.6,7.2,7.4,7.9
+18K068,I.S. 068 Isaac Bildersee,Middle School,44%,79%,94%,6.1,6.6,6.9,7.3
+18K114,P.S. 114 Ryder Elementary,Elementary School,38%,83%,NA,8,7.8,7.8,8
+18K115,P.S. 115 Daniel Mucatel School,Elementary School,58%,87%,NA,7,6.7,7.2,7
+18K135,P.S. 135 Sheldon A. Brookner,Elementary School,39%,81%,NA,8.2,8,8.1,8.4
+18K208,P.S. 208 Elsa Ebeling,Elementary School,55%,97%,NA,8.3,8.1,8.2,8.6
+18K219,P.S. 219 Kennedy-King,Elementary School,70%,61%,NA,7.6,7.2,7.2,7.4
+18K233,P.S. 233 Langston Hughes,Elementary School,53%,100%,NA,7.4,7.4,7.5,7.8
+18K235,P.S. 235 Lenox School,Elementary/Middle School,49%,58%,99%,7.9,7.3,7.7,8.2
+18K244,P.S. 244 Richard R. Green,Elementary School,37%,71%,NA,8.5,8,8.2,8.5
+18K268,P.S. 268 Emma Lazarus,Elementary School,64%,73%,NA,8.1,7.8,8,8.1
+18K272,P.S. 272 Curtis Estabrook,Elementary School,73%,91%,NA,8.1,7.7,8,8.1
+18K276,P.S. 276 Louis Marshall,Elementary School,86%,94%,NA,7.9,7.7,7.8,7.9
+18K279,P.S. 279 Herman Schreiber,Elementary School,56%,93%,NA,7.8,6.9,7.1,7.4
+18K285,I.S. 285 Meyer Levin,Middle School,61%,39%,91%,6.9,6.8,7.4,7.7
+18K366,The Science And Medicine Middle School,Middle School,85%,86%,87%,7.6,7.6,7.8,8.1
+18K563,It Takes A Village Academy,High School,46%,100%,86%,7.5,7.3,7.8,8.2
+18K566,Brooklyn Generation School,High School,16%,88%,52%,6.9,6.7,6.7,7.2
+18K567,Brooklyn Theatre Arts High School,High School,12%,87%,82%,5.7,5.4,5.8,6.1
+18K569,Kurt Hahn Expeditionary Learning School,High School,38%,92%,79%,7.2,7.2,7.5,8
+18K576,Victory Collegiate High School,High School,31%,96%,70%,7.7,7.2,7.5,8
+18K578,Brooklyn Bridge Academy,Transfer High School,87%,88%,77%,7.8,7.2,7.5,7.9
+18K581,East Flatbush Community Research School,Middle School,63%,82%,95%,6.4,6.7,6.9,7.2
+18K588,Middle School For Art And Philosophy,Middle School,53%,96%,94%,7,7.1,7.4,7.7
+18K589,Arts & Media Preparatory Academy,High School,30%,86%,64%,7.3,6.5,6.7,7.1
+18K598,Middle School Of Marketing And Legal Studies,Middle School,61%,50%,82%,7.3,7.6,7.6,8
+18K617,High School For Innovation In Advertising And Medi,High School,38%,76%,76%,7.3,6.8,7.2,7.5
+18K629,Cultural Academy For The Arts And Sciences,High School,14%,88%,85%,7.6,7.1,7.4,7.7
+18K633,High School For Medical Professions,High School,64%,96%,96%,6.9,7,6.6,7.4
+18K635,Olympus Academy,Transfer High School,2%,100%,57%,7.8,6.1,7.3,7.9
+18K637,Academy For Conservation And The Environment,High School,41%,100%,86%,6.8,6.8,6.8,7.1
+18K642,Urban Action Academy,High School,21%,78%,63%,7.1,6.9,7,7.1
+18K673,East Brooklyn Community High School,Transfer High School,29%,94%,73%,8,7.4,8,8.3
+18K922,South Shore Educational Complex Yabc,YABC,32%,41%,44%,8.5,7.9,8.2,8.4
+19K007,P.S. 007 Abraham Lincoln,Elementary School,69%,86%,NA,8.1,7.5,7.5,8
+19K013,P.S. 013 Roberto Clemente,Elementary School,46%,89%,NA,7.7,7.9,8,8.3
+19K065,P.S. 065,Elementary School,83%,100%,NA,9.2,8.9,9,9.1
+19K089,P.S. 089 Cypress Hills,Elementary/Middle School,73%,85%,87%,8,7.1,7.6,7.8
+19K108,P.S. 108 Sal Abbracciamento,Elementary School,75%,97%,NA,8.2,7.5,7.7,7.9
+19K149,P.S. 149 Danny Kaye,Elementary School,46%,88%,NA,7.7,7.9,8.1,8.2
+19K158,P.S. 158 Warwick,Elementary School,58%,87%,NA,7.9,7.3,7.7,7.7
+19K159,P.S. 159 Isaac Pitkin,Elementary School,59%,98%,NA,8.2,7.8,7.9,8.1
+19K166,J.H.S. 166 George Gershwin,Middle School,40%,70%,91%,6,6.4,6.6,6.9
+19K171,I.S. 171 Abraham Lincoln,Middle School,74%,88%,91%,7.1,6.9,7.4,7.7
+19K174,P.S. 174 Dumont,Elementary/Middle School,61%,76%,94%,7.4,7,7.2,7.7
+19K190,P.S. 190 Sheffield,Elementary School,57%,73%,NA,8.2,7.9,8.1,8.2
+19K202,P.S. 202 Ernest S. Jenkyns,Elementary/Middle School,48%,68%,86%,6.7,6.9,7.2,7.7
+19K213,P.S. 213 New Lots,Elementary School,52%,77%,NA,7.5,6.9,7.2,7.3
+19K214,P.S. 214 Michael Friedsam,Elementary School,71%,82%,NA,8.6,8.1,8.3,8.5
+19K218,J.H.S. 218 James P. Sinnott,Middle School,23%,60%,85%,6.6,6.8,7.2,7.8
+19K224,P.S. 224 Hale A. Woodruff,Elementary School,75%,52%,100%,7.2,7,7.3,7.6
+19K260,P.S. 260 Breuckelen,Elementary School,100%,60%,NA,7.7,7.4,6.9,7.2
+19K273,P.S. 273 Wortman,Elementary School,54%,97%,NA,8.5,8,7.9,8.1
+19K290,P.S. 290 Juan Morel Campos,Elementary School,30%,57%,NA,8.2,8,7.8,8.2
+19K292,J.H.S. 292 Margaret S. Douglas,Middle School,43%,89%,85%,6.4,6.8,7,7.5
+19K302,J.H.S. 302 Rafael Cordero,Middle School,49%,85%,92%,6.2,6.5,6.8,7.2
+19K306,P.S. 306 Ethan Allen,Elementary/Middle School,45%,78%,94%,6.4,6.6,6.8,7.3
+19K311,Essence School,Middle School,52%,92%,94%,7.1,6.6,7,7.3
+19K325,The Fresh Creek School,Early Childhood School,75%,75%,NA,9.1,8.5,8.7,8.8
+19K328,P.S. 328 Phyllis Wheatley,Elementary/Middle School,27%,48%,70%,6.6,6.3,6.7,7.1
+19K345,P.S. 345 Patrolman Robert Bolden,Elementary School,39%,67%,NA,7.8,7.3,7.4,7.7
+19K346,P.S. 346 Abe Stark,Elementary School,53%,86%,NA,8.6,8.2,8.3,8.5
+19K364,I.S. 364 Gateway,Middle School,48%,100%,97%,7.5,7,7.2,7.6
+19K409,East New York Family Academy,Middle/High School,41%,69%,76%,7.8,6.7,6.9,7.3
+19K420,Franklin K. Lane High School,High School,54%,77%,76%,7.1,6.9,7.3,7.6
+19K431,Thomas Jefferson Yabc,YABC,12%,92%,70%,8.9,8.8,9,8.9
+19K452,Frederick Douglass Academy Viii Middle School,Middle School,90%,88%,92%,8.5,7.9,8.3,8.7
+19K501,Franklin K. Lane Campus Yabc,YABC,82%,95%,88%,7.9,7.1,7.3,7.6
+19K502,Fdny High School For Fire And Life Safety,High School,42%,90%,87%,7,7.2,7.3,7.7
+19K504,High School For Civil Rights,High School,18%,96%,64%,7.3,7.2,7.6,7.9
+19K507,Performing Arts And Technology High School,High School,18%,71%,68%,7,6.9,7.2,7.6
+19K510,World Academy For Total Community Health High Scho,High School,29%,30%,60%,6,5.9,6.2,6.5
+19K583,Multicultural High School,High School,12%,100%,87%,7.4,7.3,7.4,7.6
+19K615,Transit Tech Career And Technical Education High S,High School,11%,83%,60%,6.3,6.1,6.5,6.9
+19K618,Academy Of Innovative Technology,High School,28%,76%,60%,7.2,7,7.4,7.7
+19K639,Brooklyn Lab School,High School,25%,94%,78%,6.4,6.6,6.6,7.1
+19K659,Cypress Hills Collegiate Preparatory School,High School,42%,100%,73%,7.4,7,7.5,7.7
+19K660,W. H. Maxwell Career And Technical Education High,High School,66%,78%,72%,7,7,7.2,7.5
+19K677,East New York Elementary School Of Excellence,Elementary School,69%,90%,NA,7.7,7.7,7.8,8
+19K678,East New York Middle School Of Excellence,Middle School,79%,100%,97%,7.2,6.9,7.2,7.5
+19K683,"The School For Classics: An Academy Of Thinkers, W",High School,51%,96%,91%,7.9,7.5,7.7,8
+20K030,I.S. 30 Mary White Ovington,Middle School,76%,100%,96%,7.5,6.7,7.2,7.5
+20K048,P.S. 048 Mapleton,Elementary School,96%,88%,NA,8.3,7.4,7.5,7.6
+20K062,J.H.S. 062 Ditmas,Middle School,100%,99%,100%,7.7,7,7.5,7.7
+20K069,P.S. 69 Vincent D. Grippo School,Elementary School,94%,77%,NA,8.8,8,8.3,8.3
+20K102,P.S. 102 The Bayview,Elementary School,82%,70%,NA,8.3,7.8,7.9,8
+20K104,P.S./I.S. 104 The Fort Hamilton School,Elementary/Middle School,97%,86%,98%,7.9,7.5,7.6,8.2
+20K105,P.S. 105 The Blythebourne,Elementary School,100%,89%,NA,8.3,7,7.4,7.5
+20K112,P.S. 112 Lefferts Park,Elementary School,100%,100%,NA,8.4,7.7,8,8.1
+20K127,P.S. 127 Mckinley Park,Elementary School,93%,100%,NA,8.4,7.8,8.2,8.2
+20K160,P.S. 160 William T. Sampson,Elementary School,100%,79%,NA,8.3,7.4,7.8,7.9
+20K163,P.S. 163 Bath Beach,Elementary/Middle School,34%,60%,94%,8.5,7.6,8.3,8.4
+20K164,P.S. 164 Caesar Rodney,Elementary School,100%,100%,NA,9.2,8.5,8.7,8.8
+20K170,Ralph A. Fabrizio School,Elementary School,76%,93%,NA,8.2,7.3,7.6,7.8
+20K176,P.S. 176 Ovington,Elementary School,90%,79%,NA,8.6,7.7,7.9,8.1
+20K179,P.S. 179 Kensington,Elementary School,74%,91%,NA,7.7,6.6,6.9,7.1
+20K180,The Seeall Academy,Elementary/Middle School,51%,62%,99%,7.9,7.2,7.5,7.8
+20K185,P.S. 185 Walter Kassenbrock,Elementary School,91%,100%,NA,9.1,8.4,8.7,8.8
+20K186,P.S. 186 Dr. Irving A Gladstone,Elementary School,100%,97%,NA,8.2,7.7,7.8,8
+20K187,The Christa Mcauliffe School\I.S. 187,Middle School,68%,74%,100%,8.6,7.2,7.8,8.2
+20K192,P.S. 192 - The Magnet School For Math And Science,Elementary/Middle School,73%,79%,100%,8.2,7.4,7.9,8.2
+20K200,P.S. 200 Benson School,Elementary School,77%,63%,NA,7.5,6.4,6.8,6.9
+20K201,J.H.S. 201 The Dyker Heights,Middle School,47%,60%,98%,8,6.6,7.3,7.7
+20K204,P.S. 204 Vince Lombardi,Elementary School,61%,96%,NA,8.8,7.8,8.2,8.4
+20K205,P.S. 205 Clarion,Elementary School,43%,55%,NA,7.7,6.3,6.7,6.9
+20K220,J.H.S. 220 John J. Pershing,Middle School,40%,100%,97%,7.1,6.7,7.1,7.4
+20K223,J.H.S. 223 The Montauk,Middle School,50%,100%,94%,7.7,6.9,7.5,7.9
+20K227,J.H.S. 227 Edward B. Shallow,Middle School,45%,98%,95%,7.1,6.1,6.6,6.9
+20K229,P.S. 229 Dyker,Elementary/Middle School,82%,97%,88%,7.7,6.7,6.9,7.6
+20K247,P.S. 247 Brooklyn,Elementary School,45%,71%,NA,8.4,7.5,7.9,8.3
+20K259,J.H.S. 259 William Mckinley,Middle School,52%,92%,92%,8.3,7.6,8.2,8.5
+20K264,P.S. 264 Bay Ridge Elementary School For The Arts,Early Childhood School,95%,82%,NA,8.7,7.3,7.8,8.3
+20K310,P.S. 310,Early Childhood School,95%,93%,NA,8.7,8.2,8.4,8.4
+20K445,New Utrecht High School,High School,52%,73%,78%,7.3,6.5,7,7.4
+20K485,High School Of Telecommunication Arts And Technolo,High School,16%,87%,81%,7.9,7.2,7.3,7.9
+20K490,Fort Hamilton High School,High School,58%,72%,83%,7.5,6.9,7.3,7.7
+20K503,Ps 503: The School Of Discovery,Elementary School,76%,98%,NA,8.4,7.7,8,8.1
+20K505,Franklin Delano Roosevelt High School,High School,46%,98%,81%,7.6,7,7.3,7.6
+20K506,P.S. 506: The School Of Journalism & Technology,Elementary School,64%,73%,NA,8.5,7.8,8,8.3
+20K609,Urban Assembly School For Criminal Justice,Middle/High School,20%,97%,91%,7.9,7.5,7.6,8.1
+20K658,Franklin Delano Roosevelt Yabc,YABC,13%,33%,39%,8.3,7.4,7.8,8.2
+20K682,The Academy Of Talented Scholars,Early Childhood School,92%,100%,NA,8.5,7.5,8.1,8.1
+20K686,Brooklyn School Of Inquiry,Early Childhood School,95%,100%,NA,9.4,8.8,9.1,9
+20K748,P.S. 748 Brooklyn School For Global Scholars,Early Childhood School,93%,100%,NA,9.2,8.7,9,8.9
+21K090,P.S. 90 Edna Cohen School,Elementary School,70%,79%,NA,7.3,6.6,7,7
+21K095,P.S. 095 The Gravesend,Elementary/Middle School,74%,99%,98%,7.9,7.5,7.6,8
+21K096,I.S. 096 Seth Low,Middle School,52%,77%,78%,7,6.6,6.9,7.2
+21K097,P.S. 97 The Highlawn,Elementary School,94%,68%,NA,8.8,7.9,8.3,8.5
+21K098,I.S. 98 Bay Academy,Middle School,96%,98%,99%,8.3,7.8,8.1,8.4
+21K099,P.S. 099 Isaac Asimov,Elementary/Middle School,75%,100%,96%,8.7,8.2,8.6,9
+21K100,P.S. 100 The Coney Island School,Elementary School,79%,96%,NA,8.3,7.4,7.7,7.9
+21K101,P.S. 101 The Verrazano,Elementary School,94%,92%,NA,8.9,8.3,8.5,8.6
+21K121,P.S. 121 Nelson A. Rockefeller,Elementary/Middle School,90%,100%,100%,8.3,7.6,8.2,8.3
+21K128,P.S. 128 Bensonhurst,Elementary School,72%,86%,NA,8.9,8,8.4,8.3
+21K153,P.S. 153 Homecrest,Elementary School,92%,97%,NA,8.2,6.7,7.2,7.4
+21K177,P.S. 177 The Marlboro,Elementary School,94%,100%,NA,8.6,7.6,7.6,8
+21K188,P.S. 188 Michael E. Berdy,Elementary School,77%,100%,NA,8.5,8.5,8.4,8.6
+21K199,P.S. 199 Frederick Wachtel,Elementary School,87%,68%,NA,8.4,6.9,7.2,7.5
+21K209,P.S. 209 Margaret Mead,Elementary/Middle School,78%,75%,100%,7.9,7.1,7.7,8.1
+21K212,P.S. 212 Lady Deborah Moody,Elementary School,74%,100%,NA,9,8.3,8.5,8.6
+21K215,P.S. 215 Morris H. Weiss,Elementary School,75%,90%,NA,8.9,8.1,8.4,8.4
+21K216,P.S. 216 Arturo Toscanini,Elementary School,87%,100%,NA,8.7,7.3,7.7,8.1
+21K225,P.S. K225 - The Eileen E. Zaglin,Elementary/Middle School,88%,96%,98%,8.2,7.7,8.1,8.3
+21K226,P.S. 226 Alfred De B.Mason,Elementary/Middle School,69%,89%,100%,8.4,7.7,8,8.3
+21K228,I.S. 228 David A. Boody,Middle School,70%,87%,96%,8.1,7.4,8,8.3
+21K238,P.S. 238 Anne Sullivan,Elementary/Middle School,67%,84%,93%,8.3,7.8,8.2,8.4
+21K239,Mark Twain I.S. 239 For The Gifted & Talented,Middle School,82%,100%,96%,8.3,7.4,7.9,8.4
+21K253,P.S. 253,Elementary School,100%,96%,NA,9.3,8.8,8.9,9
+21K281,I.S. 281 Joseph B Cavallaro,Middle School,54%,95%,93%,7.7,7.1,7.5,7.9
+21K288,P.S. 288 The Shirley Tanyhill,Elementary/Middle School,57%,80%,98%,7,6.6,7,7.2
+21K303,I.S. 303 Herbert S. Eisenberg,Middle School,95%,98%,95%,7.9,7.2,7.6,8.1
+21K329,P.S. 329 Surfside,Elementary School,89%,83%,NA,7.9,7.4,7.6,7.8
+21K337,International High School At Lafayette,High School,63%,91%,94%,8.4,7.3,7.7,8
+21K344,Rachel Carson High School For Coastal Studies,High School,41%,84%,94%,7.3,6.8,7.1,7.3
+21K348,High School Of Sports Management,High School,22%,86%,76%,6.5,6.6,6.9,7.4
+21K410,Abraham Lincoln High School,High School,12%,91%,76%,7.6,7,7.5,7.8
+21K411,Abraham Lincoln Yabc,YABC,17%,100%,28%,8.6,7.9,8.2,8.3
+21K468,Kingsborough Early College School,Middle/High School,58%,84%,95%,7.2,7.1,7.3,7.7
+21K525,Edward R. Murrow High School,High School,24%,94%,90%,7.5,7,7.3,7.6
+21K540,John Dewey High School,High School,32%,97%,73%,7.3,6.6,7.1,7.4
+21K559,Life Academy High School For Film And Music,High School,37%,100%,83%,7.4,7.5,7.6,8
+21K572,Expeditionary Learning School For Community Leader,High School,33%,78%,86%,8.3,7.4,7.9,8.2
+21K620,William E. Grady Career And Technical Education Hi,High School,53%,100%,68%,7.9,7.8,8.1,8.6
+21K690,Brooklyn Studio Secondary School,Middle/High School,30%,75%,96%,7.3,6,6.7,6.9
+21K728,Liberation Diploma Plus,Transfer High School,69%,91%,94%,7.7,7.1,7.5,7.5
+22K014,J.H.S. 014 Shell Bank,Middle School,24%,87%,92%,7.3,7.1,7.5,7.9
+22K052,P.S. 052 Sheepshead Bay,Elementary School,80%,100%,NA,8.2,7.8,7.8,7.9
+22K078,J.H.S. 078 Roy H. Mann,Middle School,32%,73%,91%,5.7,5.9,6.3,6.7
+22K109,P.S. 109,Elementary/Middle School,29%,80%,89%,6.8,7.1,7.3,7.7
+22K119,P.S. 119 Amersfort,Elementary School,61%,100%,NA,9,8.4,8.5,8.8
+22K134,P.S. K134,Elementary School,86%,79%,NA,9.1,8.2,8.4,8.7
+22K139,P.S. 139 Alexine A. Fenty,Elementary School,64%,43%,NA,7.5,6,6.6,6.5
+22K152,School Of Science & Technology,Elementary School,59%,87%,NA,8.4,8.1,8.1,8.4
+22K193,P.S. 193 Gil Hodges,Elementary School,41%,97%,NA,8.2,7.7,7.8,8
+22K194,P.S. 194 Raoul Wallenberg,Elementary School,68%,87%,NA,8.1,7.7,8,8.3
+22K195,P.S. 195 Manhattan Beach,Elementary School,80%,86%,NA,8.8,8.1,8.2,8.5
+22K197,P.S. 197 - The Kings Highway Academy,Elementary School,75%,89%,NA,8.9,8.2,8.5,8.6
+22K198,P.S. 198 Brooklyn,Elementary School,33%,83%,NA,8.1,7.8,7.8,8
+22K203,P.S. 203 Floyd Bennett,Elementary School,44%,60%,NA,7.6,7.6,7.6,8
+22K206,P.S. 206 Joseph F Lamb,Elementary/Middle School,63%,91%,99%,7.2,6.5,7,7.4
+22K207,P.S. 207 Elizabeth G. Leary,Elementary/Middle School,55%,97%,97%,7.9,7.4,7.6,8.1
+22K217,P.S. 217 Colonel David Marcus School,Elementary School,45%,68%,NA,8.4,7.7,7.8,8
+22K222,P.S. 222 Katherine R. Snyder,Elementary School,85%,84%,NA,9,8.3,8.3,8.7
+22K234,J.H.S. 234 Arthur W. Cunningham,Middle School,69%,94%,98%,7.5,7.3,7.7,8
+22K236,P.S. 236 Mill Basin,Elementary School,64%,95%,NA,7.6,6.5,6.8,7.2
+22K240,Andries Hudde,Middle School,28%,88%,96%,6.5,6.6,6.8,7.3
+22K245,P.S. 245,Elementary School,51%,67%,NA,9.2,8.5,8.8,8.9
+22K251,P.S. 251 Paerdegat,Elementary School,84%,98%,NA,7.6,7.1,7.3,7.2
+22K254,P.S. 254 Dag Hammarskjold,Elementary School,97%,93%,NA,8.8,7.9,8,8.4
+22K255,P.S. 255 Barbara Reing School,Elementary School,58%,86%,NA,9,8,8.5,8.4
+22K269,P.S. 269 Nostrand,Elementary School,61%,83%,NA,7.2,6.5,7.1,7.1
+22K277,P.S. 277 Gerritsen Beach,Elementary School,93%,100%,NA,9,8.2,8.4,8.7
+22K278,J.H.S. 278 Marine Park,Middle School,53%,93%,87%,7.8,7.5,7.8,8.3
+22K312,P.S. 312 Bergen Beach,Elementary School,81%,97%,NA,9,8.5,8.6,8.8
+22K315,P.S. K315,Elementary School,58%,96%,NA,8,7.9,7.9,8.1
+22K326,P.S. 326,Early Childhood School,79%,100%,NA,9.3,8.9,9.1,9.3
+22K361,P.S. 361 East Flatbush Early Childhood School,Early Childhood School,42%,81%,NA,8,7,7.5,7.7
+22K381,I. S. 381,Middle School,31%,78%,96%,7.2,6.4,6.8,7.3
+22K405,Midwood High School,High School,17%,89%,77%,7.7,7,7.4,7.8
+22K425,James Madison High School,High School,26%,54%,84%,8,7.6,7.9,8.2
+22K495,Sheepshead Bay High School,High School,11%,35%,71%,6.8,6.5,6.9,7.2
+22K535,Leon M. Goldstein High School For The Sciences,High School,27%,94%,89%,8.3,7,7.6,7.9
+22K555,Brooklyn College Academy,Middle/High School,72%,97%,96%,8.5,7.7,7.8,8.5
+23K041,P.S. 041 Francis White,Elementary/Middle School,26%,70%,99%,6.5,6.6,7.2,7.5
+23K137,P.S./I.S. 137 Rachel Jean Mitchell,Elementary/Middle School,81%,83%,98%,7.3,7.3,7.6,8
+23K150,P.S. 150 Christopher,Elementary School,87%,85%,NA,7.6,7,7.5,7.3
+23K155,P.S./ I.S. 155 Nicholas Herkimer,Elementary/Middle School,79%,93%,99%,7.4,7.5,7.9,8.2
+23K156,P.S. 156 Waverly,Elementary School,62%,92%,NA,8,7.8,8,8.2
+23K165,P.S. 165 Ida Posner,Elementary/Middle School,48%,74%,78%,6.8,7.1,7.3,7.7
+23K178,P.S. 178 Saint Clair Mckelway,Elementary/Middle School,66%,88%,90%,6.9,7,7.3,7.6
+23K184,P.S. 184 Newport,Elementary/Middle School,44%,93%,83%,6.2,6.1,6.3,6.6
+23K284,P.S. 284 Lew Wallace,Elementary/Middle School,67%,100%,93%,6.9,6.9,7.1,7.4
+23K298,P.S. 298 Dr. Betty Shabazz,Elementary/Middle School,51%,84%,92%,5.7,6.5,6.7,6.9
+23K323,P.S./I.S. 323,Elementary/Middle School,64%,100%,97%,7.9,7.5,8,8.2
+23K327,P.S. 327 Dr. Rose B. English,Elementary/Middle School,71%,94%,93%,7,6.9,7.2,7.6
+23K332,P.S. 332 Charles H. Houston,Elementary/Middle School,75%,86%,96%,7.1,6.8,7.1,7.6
+23K392,I.S. 392,Middle School,51%,100%,98%,7.8,7.1,7.5,8
+23K401,Christopher Avenue Community School,Early Childhood School,61%,89%,NA,7.6,7.6,7.6,8.2
+23K493,Brooklyn Collegiate: A College Board School,Middle/High School,19%,45%,57%,6.8,6.4,6.8,7.1
+23K514,Frederick Douglass Academy Vii High School,High School,45%,100%,84%,6.9,6.8,7,7.4
+23K518,Kappa V,Middle School,100%,57%,97%,7.1,7.2,7.2,7.8
+23K522,Mott Hall Iv,Middle School,90%,100%,100%,8.3,7.9,8.1,8.5
+23K631,General D. Chappie James Elementary School Of Scie,Elementary School,37%,85%,NA,7,6.7,6.8,6.8
+23K634,General D. Chappie James Middle School Of Science,Middle School,41%,94%,94%,6.8,6.9,7.2,7.4
+23K643,Brooklyn Democracy Academy,Transfer High School,2%,87%,26%,6.9,6.2,7.3,7.3
+23K644,Eagle Academy For Young Men Ii,Middle/High School,51%,74%,67%,8.4,8.1,8.8,8.8
+23K646,Aspirations Diploma Plus High School,Transfer High School,23%,94%,45%,7.8,7.1,7.6,8
+23K647,Metropolitan Diploma Plus High School,Transfer High School,35%,100%,83%,8.5,7.7,8.4,8.6
+23K671,Mott Hall Bridges Academy,Middle School,64%,80%,73%,8.2,7.8,8.4,8.5
+23K697,Teachers Preparatory High School,Middle/High School,47%,89%,79%,6.9,6.6,6.9,7.4
+24Q005,I.S. 5 - The Walter Crowley Intermediate School,Middle School,67%,86%,98%,7.6,7,7.4,7.9
+24Q007,P.S. 007 Louis F. Simeone,Early Childhood School,55%,73%,NA,7.9,6.5,6.5,6.8
+24Q012,P.S. 012 James B. Colgate,Elementary School,74%,78%,NA,8.7,7.8,7.9,8.2
+24Q013,P.S. 013 Clement C. Moore,Elementary School,89%,98%,NA,8.4,7.3,7.5,7.7
+24Q014,P.S. 014 Fairview,Elementary School,28%,55%,NA,8.8,8,8.2,8.5
+24Q016,P.S. Q016,Elementary School,80%,100%,NA,8.9,8.5,8.8,8.8
+24Q019,P.S. 019 Marino Jeantet,Elementary School,86%,92%,NA,8.6,7.8,7.9,8.1
+25Q154,P.S. 154 Queens,Elementary School,87%,67%,NA,8.1,7.5,7.4,7.7
+24Q028,P.S. 28 - The Thomas Emanuel Early Childhood Cente,Early Childhood School,84%,100%,NA,9.2,8.2,8.4,8.6
+24Q049,P.S. 049 Dorothy Bonawit Kole,Elementary/Middle School,86%,45%,97%,7.9,7.2,7.5,8.1
+24Q058,P.S. 58 - School Of Heroes,Elementary School,80%,91%,91%,7.9,6.2,6.9,7.2
+24Q061,I.S. 061 Leonardo Da Vinci,Middle School,52%,80%,97%,7.2,7.1,7.2,7.6
+24Q068,P.S. 068 Cambridge,Elementary School,49%,79%,NA,8.4,7.4,7.6,7.9
+24Q071,P.S. 071 Forest,Elementary School,65%,62%,NA,7.9,6.6,7.2,7.3
+24Q073,I.S. 73 - The Frank Sansivieri Intermediate School,Middle School,54%,60%,96%,7.2,6,6.4,6.8
+24Q077,I.S. 077,Middle School,78%,96%,98%,7.1,6.8,7,7.6
+24Q081,P.S. 81Q Jean Paul Richter,Elementary School,97%,99%,NA,8.5,8.3,8.3,8.5
+24Q087,P.S. 087 Middle Village,Elementary/Middle School,55%,67%,88%,8.5,7.9,8.4,8.7
+24Q088,P.S. 088 Seneca,Elementary School,41%,78%,NA,8.3,7,7.4,7.8
+24Q089,P.S. 089 Elmhurst,Elementary School,100%,92%,NA,8.2,7.6,7.4,7.9
+24Q091,P.S. 091 Richard Arkwright,Elementary School,44%,51%,NA,8,7,7.4,7.8
+24Q093,I.S. 093 Ridgewood,Middle School,62%,95%,88%,6.6,6.4,6.7,7.2
+24Q102,P.S. 102 Bayview,Elementary/Middle School,37%,88%,99%,8.4,7.5,7.9,8.3
+24Q113,P.S. 113 Isaac Chauncey,Elementary/Middle School,96%,96%,98%,9.1,8.4,8.8,9.1
+24Q119,I.S. 119 The Glendale,Elementary/Middle School,53%,98%,95%,7.6,7.1,7.5,8
+24Q125,I.S. 125 Thom J. Mccann Woodside,Middle School,58%,94%,98%,7.8,7.2,7.6,8.1
+24Q128,"P.S. 128 The Lorraine Tuzzo, Juniper Valley Elemen",Elementary/Middle School,69%,100%,97%,8.8,8.3,8.5,8.9
+24Q143,P.S. 143 Louis Armstrong,Elementary School,33%,76%,NA,7.8,6.7,7.1,7.2
+24Q153,P.S. 153 Maspeth Elem,Elementary School,88%,98%,99%,8.4,7.8,8.1,8.5
+24Q199,P.S. 199 Maurice A. Fitzgerald,Elementary School,55%,56%,NA,8.4,7.5,7.3,7.7
+24Q229,P.S. 229 Emanuel Kaplan,Elementary School,73%,96%,99%,8.4,7.6,8.3,8.6
+24Q239,P.S. 239,Elementary School,80%,98%,NA,8.4,7.4,7.6,7.8
+24Q264,Academy Of Finance And Enterprise,High School,76%,96%,92%,7.8,6.8,7,7.6
+24Q267,High School Of Applied Communication,High School,16%,100%,91%,7.8,7.2,7.5,7.8
+24Q290,P.S. 290,Early Childhood School,77%,100%,NA,8.9,7.3,8.2,8.4
+24Q293,Civic Leadership Academy,High School,48%,87%,94%,8.3,7,7.4,7.8
+24Q296,Pan American International High School,High School,48%,86%,91%,7.4,6.7,7.2,7.3
+24Q299,Bard High School Early College Ii,High School,49%,74%,87%,8.2,6.6,7.6,8.2
+24Q305,Learners And Leaders,Early Childhood School,84%,100%,NA,8.5,8.1,8.2,8.2
+24Q307,Pioneer Academy,Elementary School,100%,82%,NA,8.7,8,8.2,8.3
+24Q330,P.S. 330,Early Childhood School,77%,82%,NA,8.2,7.3,7.5,7.9
+24Q455,Newtown High School,High School,19%,65%,70%,7.4,7.1,7.4,7.8
+24Q457,Hs Arts & Business Yabc,YABC,27%,61%,54%,8.7,7.7,8.4,8.6
+24Q485,Grover Cleveland High School,High School,17%,51%,20%,8.2,7.5,8,8.1
+24Q520,Middle College High School At Laguardia Community,High School,26%,97%,78%,7.9,6.8,7.3,7.5
+24Q530,International High School At Laguardia Community C,High School,74%,94%,95%,8.7,7.5,8.1,8.3
+24Q550,High School For Arts And Business,High School,26%,90%,89%,8.2,7.3,7.8,8.2
+24Q560,"Robert F. Wagner, Jr. Secondary School For Arts An",Middle/High School,21%,100%,74%,8.1,7.3,7.7,7.9
+24Q585,Maspeth High School,High School,43%,93%,95%,7.7,6.6,6.9,7.6
+24Q600,Queens Vocational And Technical High School,High School,17%,78%,89%,7.8,7.2,7.7,8
+24Q610,Aviation Career & Technical Education High School,High School,19%,95%,89%,8.2,7.4,7.8,8.2
+24Q744,Voyages Preparatory,Transfer High School,86%,100%,95%,9.2,8.5,9,9.2
+24Q877,The 51 Avenue Academy (The Path To Academic Excell,Elementary School,77%,91%,NA,8.7,7.2,7.8,8.1
+25Q020,P.S. 020 John Bowne,Elementary School,84%,82%,NA,7.9,6.5,7.1,7.3
+25Q021,P.S. 021 Edward Hart,Elementary School,100%,100%,NA,8.3,7.5,7.8,8
+25Q022,P.S. 022 Thomas Jefferson,Elementary School,93%,91%,NA,8.5,7.3,7.6,7.8
+25Q024,P.S. 024 Andrew Jackson,Elementary School,79%,96%,NA,8.5,7.4,7.7,7.9
+25Q025,I.S. 025 Adrien Block,Middle School,29%,84%,96%,7.4,6.8,7.2,7.6
+25Q029,P.S. 029 Queens,Elementary School,75%,82%,NA,8.1,6.8,7.3,7.5
+25Q032,P.S. 032 State Street,Elementary School,75%,100%,NA,9,8.3,8.6,8.5
+25Q079,P.S. 079 Francis Lewis,Elementary School,54%,85%,NA,8.1,6.6,7,7.4
+25Q107,P.S. 107 Thomas A Dooley,Elementary School,75%,84%,NA,8.8,8,8.4,8.5
+25Q120,P.S. 120 Queens,Elementary School,74%,82%,NA,7.9,6.1,6.4,6.2
+25Q129,P.S. 129 Patricia Larkin,Elementary School,42%,67%,NA,8.9,7.5,7.6,7.8
+25Q130,P.S. 130,Early Childhood School,72%,88%,NA,8.9,7.7,8.4,8.5
+25Q163,P.S. 163 Flushing Heights,Elementary School,73%,83%,NA,8.5,8,7.9,8.1
+25Q164,P.S. 164 Queens Valley,Elementary/Middle School,74%,83%,96%,7.2,6.7,7,7.6
+25Q165,P.S. 165 Edith K. Bergtraum,Elementary School,86%,92%,NA,7.8,5.9,6.6,6.7
+25Q169,P.S. 169 Bay Terrace,Elementary School,76%,100%,NA,9.2,8.8,9.1,9.1
+25Q184,P.S. 184 Flushing Manor,Elementary School,85%,97%,NA,9.3,8.7,9,9
+25Q185,J.H.S. 185 Edward Bleeker,Middle School,65%,83%,95%,7.7,6.8,7.3,7.7
+25Q189,J.H.S. 189 Daniel Carter Beard,Middle School,91%,96%,99%,8.3,7.3,7.7,8
+25Q193,P.S. 193 Alfred J. Kennedy,Elementary School,74%,97%,NA,8.5,7.6,8,8.1
+25Q194,J.H.S. 194 William Carr,Middle School,31%,79%,97%,6.5,6,6.2,6.9
+25Q200,Ps/Ms 200 - The Pomonok School & Star Academy,Elementary/Middle School,47%,63%,98%,7.1,6.8,7,7.5
+25Q201,P.S. 201 The Discovery School For Inquiry And Rese,Elementary School,60%,73%,NA,7.8,7.2,7.4,7.5
+25Q209,P.S. 209 Clearview Gardens,Elementary School,87%,100%,NA,8.8,8.4,8.6,8.7
+25Q214,P.S. 214 Cadwallader Colden,Elementary School,63%,85%,NA,8.5,7.7,8,8.2
+25Q219,P.S. 219 Paul Klapper,Elementary/Middle School,40%,65%,99%,7.7,6.5,7.2,7.7
+25Q237,I.S. 237,Middle School,86%,96%,93%,7.6,6.8,7.3,7.7
+25Q242,P.S. 242 Leonard P. Stavisky Early Childhood Schoo,Early Childhood School,78%,100%,NA,8.8,6.5,7.7,7.7
+25Q244,The Active Learning Elementary School,Early Childhood School,75%,96%,NA,9,7.8,7.9,8.1
+25Q250,I.S. 250 The Robert F. Kennedy Community Middle Sc,Middle School,62%,92%,96%,7.5,7.3,7.5,8.1
+25Q252,"Queens School Of Inquiry, The",Middle/High School,41%,100%,99%,7.7,7.1,7.4,7.9
+25Q263,Flushing International High School,High School,79%,100%,94%,8.3,7.5,7.8,8.1
+25Q281,East-West School Of International Studies,Middle/High School,40%,74%,96%,7.7,6.7,7,7.2
+25Q285,World Journalism Preparatory: A College Board Scho,Middle/High School,22%,86%,91%,7.8,7.5,7.6,8
+25Q294,Bell Academy,Middle School,57%,100%,99%,8.3,7.7,8,8.5
+25Q425,John Bowne High School,High School,19%,65%,79%,7.1,6.7,7,7.3
+25Q460,Flushing High School,High School,17%,87%,28%,6.9,6.6,7.1,7.3
+25Q467,Flushing Yabc,YABC,3%,93%,64%,7.7,7.4,7.9,8.3
+25Q499,"The Queens College School For Math, Science And Te",Elementary/Middle School,54%,93%,100%,7.8,7.1,7.2,7.8
+25Q525,Townsend Harris High School,High School,30%,96%,97%,8.3,6.8,7.1,7.8
+25Q540,Queens Academy High School,Transfer High School,26%,78%,62%,7.5,6.6,7.1,7.4
+25Q670,Robert F. Kennedy Community High School,High School,23%,100%,84%,8.1,7.7,8,8.2
+25Q792,North Queens Community High School,Transfer High School,49%,100%,73%,7.6,7.4,7.6,8
+26Q018,P.S. 018 Winchester,Elementary School,48%,86%,NA,8.8,7.7,8.1,8.5
+26Q026,P.S. 026 Rufus King,Elementary School,82%,93%,NA,8.5,7.9,7.9,8.2
+26Q031,P.S. 031 Bayside,Elementary School,54%,70%,NA,8.7,7.8,8.2,8.3
+26Q041,P.S. 041 Crocheron,Elementary School,67%,92%,NA,9.3,8.7,8.9,9
+26Q046,P.S. 046 Alley Pond,Elementary School,63%,91%,NA,9.1,8.4,8.7,8.8
+26Q067,J.H.S. 067 Louis Pasteur,Middle School,47%,55%,97%,7.4,6.5,7,7.5
+26Q074,J.H.S. 074 Nathaniel Hawthorne,Middle School,85%,88%,96%,7.8,7.2,7.6,7.9
+26Q094,P.S. 094 David D. Porter,Elementary School,78%,58%,NA,8.8,8.1,8.3,8.6
+26Q098,P.S. 098 The Douglaston School,Elementary School,60%,82%,NA,8.4,7.5,7.8,8
+26Q115,P.S. 115 Glen Oaks,Elementary School,46%,76%,NA,8.6,7.7,8,8.1
+26Q133,P.S. 133 Queens,Elementary School,77%,70%,NA,9,8.3,8.5,8.7
+26Q158,M.S. 158 Marie Curie,Middle School,34%,47%,98%,7.9,6.7,7.2,7.6
+26Q159,P.S. 159,Elementary School,76%,83%,NA,9.2,8.4,8.5,8.7
+26Q162,P.S. 162 John Golden,Elementary School,97%,92%,NA,8.9,7.9,8.2,8.2
+26Q172,Irwin Altman Middle School 172,Middle School,38%,53%,95%,7,6,6.5,6.9
+26Q173,P.S. 173 Fresh Meadows,Elementary School,100%,100%,NA,8.5,7.3,7.8,8.2
+26Q178,P.S./ Is 178 Holliswood,Elementary/Middle School,51%,74%,99%,7.3,6.7,7.1,7.6
+26Q186,P.S. 186 Castlewood,Elementary School,99%,83%,NA,9.1,8.6,8.7,8.8
+26Q188,P.S. 188 Kingsbury,Elementary School,58%,79%,NA,8.6,7.8,7.9,8.2
+26Q191,P.S. 191 Mayflower,Elementary School,75%,96%,NA,9.2,8.7,9,9
+26Q203,P.S. 203 Oakland Gardens,Elementary School,68%,96%,NA,9,8.2,8.5,8.7
+26Q205,P.S. 205 Alexander Graham Bell,Elementary School,55%,76%,NA,7.8,6.9,6.9,7.5
+26Q213,P.S. 213 The Carl Ullman School,Elementary School,51%,73%,NA,8.7,7.9,8.3,8.5
+26Q216,J.H.S. 216 George J. Ryan,Middle School,34%,50%,94%,6.3,5.9,5.8,6.3
+26Q221,P.S. 221 The North Hills School,Elementary School,87%,97%,NA,9.4,8.8,8.8,8.9
+26Q266,P.S. / I.S. 266,Elementary/Middle School,66%,71%,98%,8,7.3,7.6,8.1
+26Q415,Benjamin N. Cardozo High School,High School,16%,73%,81%,7.1,6.5,7,7.4
+26Q430,Francis Lewis High School,High School,24%,58%,42%,8,7.5,8,8.3
+26Q435,Martin Van Buren High School,High School,5%,86%,59%,6.1,6.1,6.4,6.7
+26Q495,Bayside High School,High School,14%,94%,20%,8.1,7.3,7.8,7.9
+26Q566,"Queens High School Of Teaching, Liberal Arts And T",High School,25%,97%,85%,7.2,6.8,7,7.1
+27Q042,P.S./M.S 042 R. Vernam,Elementary/Middle School,60%,83%,91%,7,7.1,7.2,7.8
+27Q043,P.S. 043,Elementary/Middle School,65%,76%,92%,6.9,7.2,7.4,7.9
+27Q045,P.S. 045 Clarence Witherspoon,Elementary School,24%,44%,98%,6.8,6.8,7,7.4
+27Q047,P.S. 047 Chris Galas,Elementary/Middle School,88%,100%,98%,8.7,8.2,8.5,8.7
+27Q051,P.S. 051,Early Childhood School,73%,100%,NA,8.7,8.4,8.2,8.7
+27Q053,M.S. 053 Brian Piccolo,Middle School,73%,87%,85%,6.8,6.8,7,7.4
+27Q056,P.S. 056 Harry Eichler,Elementary School,69%,93%,NA,8.3,7.6,7.5,7.8
+27Q060,P.S. 060 Woodhaven,Elementary School,51%,86%,NA,8.3,7.5,7.7,8.2
+27Q062,P.S. 062 Chester Park,Elementary School,87%,88%,NA,8.3,7.6,7.9,8.2
+27Q063,P.S. 063 Old South,Elementary School,73%,79%,NA,8.1,7.2,7.5,7.8
+27Q064,P.S. 064 Joseph P. Addabbo,Elementary School,84%,100%,NA,9.1,8.5,8.7,9
+27Q065,P.S. 65 - The Raymond York Elementary School,Elementary School,79%,82%,NA,8.7,7.8,8,8.4
+27Q066,P.S. 066 Jacqueline Kennedy Onassis,Elementary School,87%,93%,NA,8.9,8.4,8.4,8.8
+27Q090,P.S. 090 Horace Mann,Elementary School,64%,83%,NA,8,7.5,7.4,7.7
+27Q096,P.S. 096,Elementary School,63%,80%,93%,8.8,8.3,8.5,8.6
+27Q097,P.S. 097 Forest Park,Elementary School,66%,77%,NA,8.3,7.5,7.8,8
+27Q100,P.S. 100 Glen Morris,Elementary School,86%,84%,NA,8.4,7.4,7.8,7.9
+27Q104,P.S. 104 The Bays Water,Elementary School,39%,83%,NA,8.7,8.3,8.5,8.6
+27Q105,P.S. 105 The Bay School,Elementary/Middle School,38%,95%,98%,7.7,7.9,8.2,8.4
+27Q106,P.S. 106,Elementary School,50%,36%,NA,7.6,7.2,7.5,7.7
+27Q108,P.S. 108 Captain Vincent G. Fowler,Elementary School,100%,98%,NA,8.6,8,8,8.3
+27Q114,P.S. / M.S. 114 Belle Harbor,Elementary/Middle School,74%,88%,96%,8.3,7.5,7.9,8.2
+27Q123,P.S. 123,Elementary School,73%,67%,NA,8.2,7.4,7.8,7.8
+27Q124,P.S. 124 Osmond A Church,Elementary/Middle School,84%,87%,98%,8.2,8.1,8.3,8.7
+27Q137,M.S. 137 America'S School Of Heroes,Middle School,38%,78%,93%,6.9,6.9,7.3,7.6
+27Q146,P.S. 146 Howard Beach,Elementary/Middle School,77%,100%,100%,8.2,7.4,7.8,8.2
+27Q155,P.S. 155,Elementary School,79%,98%,NA,8.6,7.9,8,8.3
+27Q183,P.S. 183 Dr. Richard R. Green,Elementary/Middle School,58%,83%,94%,7.3,7.6,7.6,8.1
+27Q197,P.S. 197 The Ocean School,Elementary School,36%,57%,NA,7.4,7.4,7.7,7.9
+27Q202,J.H.S. 202 Robert H. Goddard,Middle School,97%,96%,96%,7.7,7.5,7.9,8.3
+27Q207,P.S. 207 Rockwood Park,Elementary/Middle School,92%,88%,100%,8,7.2,7.5,8
+27Q210,J.H.S. 210 Elizabeth Blackwell,Middle School,35%,64%,95%,7,6.6,7,7.4
+27Q215,P.S. 215 Lucretia Mott,Elementary School,73%,45%,NA,7.3,6.5,6.9,7
+27Q223,P.S. 223 Lyndon B. Johnson,Elementary School,100%,85%,NA,8.5,8.2,8.6,8.7
+27Q226,J.H.S. 226 Virgil I. Grissom,Middle School,53%,90%,90%,6.4,6.6,6.8,7.3
+27Q232,P.S. 232 Lindenwood,Elementary/Middle School,67%,96%,100%,8.4,8.3,8.2,8.8
+27Q253,P.S. 253,Elementary School,70%,93%,NA,8.7,8.2,8.4,8.5
+27Q254,P.S. 254,Elementary School,90%,98%,NA,9.4,8.7,9.1,9.2
+27Q260,Frederick Douglass Academy Vi High School,High School,43%,81%,79%,6.4,6.1,6.7,6.9
+27Q262,Channel View School For Research,Middle/High School,47%,100%,96%,8.2,7.8,8.1,8.4
+27Q273,P.S. 273,Early Childhood School,92%,90%,NA,8.9,8.1,8.2,8.7
+27Q282,Knowledge And Power Preparatory Academy Vi,Middle School,69%,100%,100%,8.1,7.7,7.9,8.3
+27Q302,"Queens High School For Information, Research, And",High School,48%,85%,69%,6.4,5.7,6,6.6
+27Q306,New York City Academy For Discovery,Elementary School,63%,89%,NA,8.8,8.1,8.4,8.6
+27Q308,Robert H. Goddard High School Of Communication Art,High School,64%,94%,91%,7.7,7.4,7.5,8.1
+27Q309,Academy Of Medical Technology: A College Board Sch,Middle/High School,38%,88%,78%,6.9,6.6,6.9,7.2
+27Q317,Waterside Children'S Studio School,Elementary School,63%,97%,NA,8.9,8.6,8.9,9
+27Q318,Waterside School For Leadership,Middle School,61%,92%,91%,7.5,7.3,7.1,7.5
+27Q319,Village Academy,Middle School,81%,89%,85%,8.3,8.3,8.5,8.7
+27Q323,Scholars' Academy,Middle/High School,84%,100%,97%,8.7,8.1,8.3,8.7
+27Q324,Rockaway Park High School For Environmental Sustai,High School,44%,100%,88%,7,7.2,7.4,7.7
+27Q333,Goldie Maple Academy,Elementary/Middle School,91%,100%,98%,8.4,8.4,8.3,8.6
+27Q351,Rockaway Collegiate High School,High School,43%,100%,83%,8,7.7,8,8.2
+27Q400,August Martin High School,High School,17%,2%,13%,8.1,7.5,7.8,8
+27Q410,Beach Channel High School,High School,6%,8%,47%,5.6,5.4,5.8,6.6
+27Q475,Richmond Hill High School,High School,15%,57%,60%,6.4,6.4,6.7,7
+27Q480,John Adams High School,High School,14%,91%,72%,7,6.9,7.2,7.5
+27Q487,John Adams Yabc,YABC,35%,100%,79%,9,8.5,8.8,9.1
+27Q650,"High School For Construction Trades, Engineering A",High School,30%,73%,89%,7.5,6.6,7.1,7.5
+28Q008,J.H.S. 008 Richard S. Grossley,Middle School,33%,19%,46%,6.4,6.3,6.8,7.2
+28Q030,P.S. 030 Queens,Elementary School,14%,41%,NA,7.7,7.4,7.3,7.5
+28Q040,P.S. 040 Samuel Huntington,Elementary School,63%,100%,NA,8.3,8,8.3,8.4
+28Q048,P.S. 048 William Wordsworth,Elementary School,75%,100%,NA,8.3,7.7,7.9,7.9
+28Q050,P.S. 050 Talfourd Lawn Elementary School,Elementary School,64%,69%,NA,7.4,7.2,7.5,7.7
+28Q054,P.S. 054 Hillside,Elementary School,75%,68%,NA,8.1,7.4,7.5,7.7
+28Q055,P.S. 055 Maure,Elementary School,56%,74%,NA,8.4,7.6,7.5,8.1
+28Q072,Catherine & Count Basie Middle School 72,Middle School,60%,94%,88%,6.4,6.7,6.9,7.4
+28Q080,P.S. 080 Thurgood Marshall Magnet,Elementary School,85%,86%,NA,8.4,7.9,8.3,8.1
+28Q082,P.S. 082 Hammond,Elementary School,63%,57%,NA,8.5,7.3,7.7,7.7
+28Q086,P.S. Q086,Elementary School,55%,97%,NA,7.8,6.9,7.3,7.2
+28Q099,P.S. 099 Kew Gardens,Elementary School,27%,66%,99%,8,7.1,7.7,8.1
+28Q101,P.S. 101 School In The Gardens,Elementary School,92%,95%,100%,7.7,7.4,7.9,8.1
+28Q117,P.S. 117 J. Keld / Briarwood School,Elementary School,72%,77%,99%,7.8,7.1,7.6,7.8
+28Q121,P.S. 121 Queens,Elementary School,75%,16%,98%,8.1,7.3,8,8.4
+28Q139,P.S. 139 Rego Park,Elementary School,98%,100%,NA,7.8,6.9,7.2,7.6
+28Q140,P.S. 140 Edward K Ellington,Elementary School,39%,63%,NA,6.9,6.9,7,7.1
+28Q144,P.S. 144 Col Jeromus Remsen,Elementary School,73%,65%,NA,8.8,8.1,8.5,8.6
+28Q157,J.H.S. 157 Stephen A. Halsey,Middle/High School,64%,91%,97%,7.7,7.2,7.4,7.7
+28Q160,P.S. 160 Walter Francis Bishop,Elementary School,17%,69%,100%,7,6.9,7.3,7.6
+28Q161,P.S. 161 Arthur Ashe School,Elementary School,59%,95%,95%,8.4,7.7,8.2,8.4
+28Q167,Metropolitan Expeditionary Learning School,Middle School,54%,96%,97%,8.4,7.7,7.9,8.2
+28Q174,P.S. 174 William Sidney Mount,Elementary School,55%,57%,100%,7.8,7.1,7.4,7.8
+28Q175,P.S. 175 The Lynn Gross Discovery School,Elementary School,59%,95%,NA,8.6,8,8.2,8.3
+28Q182,P.S. 182 Samantha Smith,Early Childhood School,55%,66%,NA,7.7,7.5,7.6,7.7
+28Q190,J.H.S. 190 Russell Sage,Middle School,58%,79%,98%,7,6.3,6.8,7.2
+28Q196,P.S. 196 Grand Central Parkway,Elementary School,78%,100%,NA,8.7,8.4,8.5,8.6
+28Q206,P.S. 206 The Horace Harding School,Elementary School,39%,83%,NA,8.1,7.8,8,8
+28Q217,J.H.S. 217 Robert A. Van Wyck,Middle School,30%,54%,91%,6.7,6.8,7.3,7.7
+28Q220,P.S. 220 Edward Mandel,Elementary School,63%,89%,NA,8.1,7.1,7.5,7.6
+28Q284,York Early College Academy,Middle/High School,31%,73%,96%,7.3,7.3,7.3,8
+28Q303,The Academy For Excellence Through The Arts,Early Childhood School,91%,100%,NA,9.5,8.7,9.1,9.3
+28Q310,Queens Collegiate: A College Board School,Middle/High School,15%,75%,70%,7.5,7.3,7.5,7.9
+28Q325,Hillside Arts & Letters Academy,High School,45%,100%,88%,7.6,7.4,7.6,8.2
+28Q328,High School For Community Leadership,High School,25%,71%,72%,7.7,7.3,7.7,8.1
+28Q338,Queens Satellite High School For Opportunity,Transfer High School,3%,100%,50%,7.1,6.3,6.7,7
+28Q350,Jamaica Gateway To The Sciences,High School,21%,80%,93%,7.9,6.9,7,7.6
+28Q354,Ps 354,Early Childhood School,44%,84%,NA,9.2,9.2,9.3,9.3
+28Q440,Forest Hills High School,High School,11%,81%,23%,7.4,7.1,7.6,7.9
+28Q470,Jamaica High School,High School,22%,58%,72%,7.1,6.2,6.3,6.8
+28Q505,Hillcrest High School,High School,43%,84%,51%,8,7.9,8.1,8.4
+28Q620,Thomas A. Edison Career And Technical Education Hi,High School,55%,98%,92%,7.6,7.1,7.5,7.8
+28Q680,Queens Gateway To Health Sciences Secondary School,Middle/High School,32%,39%,93%,7.6,6.4,6.7,7.4
+28Q686,Queens Metropolitan High School,High School,19%,67%,85%,6.3,5.5,5.9,6
+28Q687,Queens High School For The Sciences At York Colleg,High School,28%,92%,99%,7.7,6.8,7,7.6
+28Q690,High School For Law Enforcement And Public Safety,High School,23%,96%,85%,7.2,6.7,7.1,7.4
+28Q896,"Young Women'S Leadership School, Queens",Middle/High School,71%,48%,98%,6.9,5.7,5.9,6.4
+29Q015,P.S. 015 Jackie Robinson,Elementary School,71%,82%,NA,9.1,8.5,8.6,8.7
+29Q033,P.S. 033 Edward M. Funk,Elementary School,67%,84%,NA,8.7,8.1,8.3,8.5
+29Q034,P.S. 034 John Harvard,Elementary School,26%,64%,NA,8,8,7.8,8.4
+29Q035,P.S. 035 Nathaniel Woodhull,Elementary School,58%,88%,NA,7.7,6.5,7,7.4
+29Q036,P.S. 036 Saint Albans School,Elementary School,96%,97%,NA,8.4,8.1,8.2,8.3
+29Q037,Cynthia Jenkins School,Elementary School,74%,69%,NA,7.7,7.7,7.9,8
+29Q038,P.S. 038 Rosedale,Elementary School,87%,76%,NA,8.4,7.7,8,8
+29Q052,P.S. 052 Queens,Elementary School,38%,85%,NA,7.6,7.3,7.6,8
+29Q059,I.S. 059 Springfield Gardens,Middle School,51%,88%,86%,6,6.2,6.5,6.9
+29Q095,P.S. 095 Eastwood,Elementary School,100%,100%,NA,8.5,8.4,8.3,8.5
+29Q109,Jean Nuzzi Intermediate School,Middle School,39%,94%,95%,7.1,6.6,7,7.6
+29Q116,Ps/Is 116 William C. Hughley,Elementary/Middle School,64%,100%,89%,8,8.1,8.2,8.4
+29Q118,P.S. 118 Lorraine Hansberry,Elementary School,40%,70%,NA,6.5,5.8,5.7,6.3
+29Q131,P.S. 131 Abigail Adams,Elementary School,57%,98%,NA,8.6,8.3,8.3,8.5
+29Q132,P.S. 132 Ralph Bunche,Elementary School,57%,96%,NA,8.5,8.1,8.1,8.3
+29Q134,P.S. 134 Hollis,Elementary School,33%,81%,NA,7.6,8,7.8,8
+29Q135,The Bellaire School,Elementary School,27%,65%,NA,8,7.3,7.6,7.7
+29Q136,P.S. 136 Roy Wilkins,Elementary School,86%,89%,NA,7.7,7.3,7.6,7.9
+29Q138,P.S./ M.S.138 Sunrise,Elementary/Middle School,58%,95%,96%,6.8,7,7,7.7
+29Q147,Ps/Ms 147 Ronald Mcnair,Elementary/Middle School,56%,72%,98%,7.5,7,7.3,7.6
+29Q156,P.S. 156 Laurelton,Elementary/Middle School,45%,46%,76%,6.4,6.4,6.6,7.2
+29Q176,P.S. 176 Cambria Heights,Elementary School,65%,96%,NA,8.3,7.8,7.7,8.1
+29Q181,P.S. 181 Brookfield,Elementary School,53%,81%,NA,8.4,7.7,8.2,8.2
+29Q192,I.S. 192 The Linden,Middle School,97%,70%,75%,8.7,8.4,8.8,9
+29Q195,P.S. 195 William Haberle,Elementary School,98%,98%,NA,7.8,8.2,8.1,8.1
+29Q208,P.S. / I.S. 208,Elementary/Middle School,68%,92%,95%,7.6,7.5,7.8,8.2
+29Q231,I.S. 231 Magnetech 2000,Middle School,31%,89%,94%,6.1,6.3,6.8,7.2
+29Q238,I.S 238 - Susan B. Anthony Academy,Middle School,12%,24%,80%,6.9,6.7,7.1,7.5
+29Q248,Queens Preparatory Academy,High School,25%,96%,85%,6.9,6.8,6.8,7.2
+29Q251,P.S. 251 Queens,Early Childhood School,85%,96%,NA,7.6,7.1,7.3,7.5
+29Q259,Pathways College Preparatory School: A College Boa,Middle/High School,15%,89%,70%,6.5,5.9,6.4,6.7
+29Q265,Excelsior Preparatory High School,High School,26%,92%,76%,7,6.9,7.1,7.5
+29Q268,Ps/Is 268,Elementary/Middle School,57%,86%,96%,6.6,6.1,6.4,7
+29Q270,The Gordon Parks School,Elementary/Middle School,28%,100%,98%,7.7,7.4,7.4,7.8
+29Q272,George Washington Carver High School For The Scien,High School,20%,96%,92%,6.9,6.6,6.8,7.3
+29Q283,Preparatory Academy For Writers: A College Board S,Middle/High School,15%,96%,86%,7.5,7.5,7.6,8
+29Q295,P.S./I.S. 295,Elementary/Middle School,86%,94%,99%,7.5,6.5,6.7,7.3
+29Q326,Cambria Heights Academy,High School,87%,100%,97%,8.5,7.9,8.1,8.5
+29Q327,Eagle Academy For Young Men Iii,Middle School,55%,75%,96%,7.3,7.2,7.5,7.5
+29Q355,Collaborative Arts Middle School,Middle School,56%,100%,93%,7.4,7.3,7.4,8
+29Q356,Community Voices Middle School,Middle School,53%,100%,67%,6.6,6.5,6.8,7.4
+29Q492,"Mathematics, Science Research And Technology Magne",High School,76%,100%,87%,7.1,6.5,6.9,7.1
+29Q494,"Law, Government And Community Service High School",High School,26%,100%,68%,6.9,6.6,7,7.2
+29Q496,"Business, Computer Applications & Entrepreneurship",High School,26%,100%,78%,7,6.9,6.9,7.4
+29Q498,Humanities & Arts Magnet High School,High School,45%,100%,81%,6.9,6.7,6.9,7.4
+30Q002,P.S. 002 Alfred Zimberg,Elementary School,93%,98%,NA,8.5,7.6,7.9,8
+30Q010,I.S. 010 Horace Greeley,Middle School,88%,98%,96%,8,6.9,7.4,7.9
+30Q011,P.S. 011 Kathryn Phelan,Elementary School,48%,95%,88%,8.2,7.6,8,8.3
+30Q017,P.S. 017 Henry David Thoreau,Elementary School,74%,88%,NA,7.3,6.4,6.8,6.6
+30Q069,P.S. 069 Jackson Heights,Elementary School,74%,99%,NA,8.3,7.6,7.8,8
+30Q070,P.S. 070 Queens,Elementary School,68%,54%,NA,7.8,6.6,6.8,7.3
+30Q076,P.S. 076 William Hallet,Elementary School,25%,83%,NA,7.8,7.2,7.4,7.5
+30Q078,P.S. 078,Elementary School,52%,90%,NA,9.6,9.2,9.1,9.2
+30Q084,P.S. 084 Steinway,Elementary/Middle School,71%,91%,99%,7.6,7.1,7.1,7.5
+30Q085,P.S. 085 Judge Charles Vallone,Elementary School,60%,63%,NA,8.6,7.6,8,8.1
+30Q092,P.S. 092 Harry T. Stewart Sr.,Elementary School,96%,79%,NA,8.8,7.9,8.1,8.4
+30Q111,P.S. 111 Jacob Blackwell,Elementary/Middle School,79%,100%,100%,7.5,7.3,7.5,8
+30Q112,P.S. 112 Dutch Kills,Elementary School,70%,72%,NA,7.9,7,7.4,7.6
+30Q122,P.S. 122 Mamie Fay,Elementary/Middle School,93%,73%,100%,8,7.2,7.6,8.1
+30Q126,Albert Shanker School For Visual And Performing Ar,Middle School,29%,70%,92%,7.2,7.2,7.4,7.8
+30Q127,P.S. 127 Aerospace Science Magne,Elementary/Middle School,68%,82%,97%,6.5,5.7,6.2,6.6
+30Q141,I.S. 141 The Steinway,Middle School,93%,94%,97%,8.3,7.5,8,8.4
+30Q145,I.S. 145 Joseph Pulitzer,Middle School,80%,98%,99%,7.9,7.4,7.8,8.2
+30Q148,P.S. 148 Queens,Elementary School,83%,94%,NA,8.4,7.4,7.6,7.7
+30Q149,P.S. 149 Christa Mcauliffe,Elementary School,77%,100%,NA,8.5,8.2,8.2,8.5
+30Q150,P.S. 150 Queens,Elementary School,81%,52%,100%,8.2,6.6,7.3,7.6
+30Q151,P.S. 151 Mary D. Carter,Elementary School,52%,80%,NA,7.2,6.1,6.5,6.6
+30Q152,Q152 - P.S. 152 Gwendoline N. Alleyne School,Elementary School,53%,53%,100%,8.6,7.3,7.8,8
+30Q166,P.S. 166 Henry Gradstein,Elementary School,33%,52%,NA,8.2,7.8,7.7,7.9
+30Q171,P.S. 171 Peter G. Van Alst,Elementary School,43%,80%,NA,8.2,7.5,7.8,8.1
+30Q204,I.S. 204 Oliver W. Holmes,Middle School,47%,67%,97%,6.6,6.5,6.7,7.2
+30Q212,P.S. 212,Elementary School,86%,64%,NA,8.5,7.4,7.8,8
+30Q222,P.S. Q222 - Fire Fighter Christopher A. Santora Sc,Early Childhood School,82%,100%,NA,8.4,7.6,7.7,7.8
+30Q227,I.S. 227 Louis Armstrong,Middle School,69%,74%,99%,7.8,7.2,7.6,8
+30Q228,P.S. 228 Early Childhood Magnet School Of The Arts,Early Childhood School,77%,53%,NA,9.4,8.7,8.8,8.8
+30Q230,I.S. 230,Middle School,65%,88%,98%,7.5,6.5,7,7.5
+30Q234,P.S. 234,Elementary School,100%,80%,NA,8.3,7.5,7.7,7.7
+30Q235,Academy For New Americans,Middle School,99%,100%,95%,9.4,8.6,9,9.2
+30Q280,P.S. 280,Early Childhood School,86%,100%,NA,8.8,8.3,8.6,8.7
+30Q286,"Young Women's Leadership School, Astoria",Middle/High School,87%,97%,99%,8.3,7.3,8,8.1
+30Q301,Academy For Careers In Television And Film,High School,66%,100%,97%,8.3,8.1,8.3,8.6
+30Q445,William Cullen Bryant High School,High School,43%,93%,86%,7.1,6,6.6,6.8
+30Q450,Long Island City High School,High School,9%,71%,64%,6.5,6.2,6.8,7.1
+30Q501,Frank Sinatra School Of The Arts High School,High School,34%,96%,89%,8,7.1,7.4,7.6
+30Q502,Information Technology High School,High School,29%,95%,91%,7.2,6.3,6.6,6.9
+30Q555,Newcomers High School,High School,51%,89%,93%,8,6.7,7.1,7.5
+30Q575,Academy Of American Studies,High School,40%,90%,97%,7.7,7,7.3,7.8
+30Q580,Baccalaureate School For Global Education,Middle/High School,35%,36%,97%,8.6,6.5,6.9,7.9
+31R001,P.S. 001 Tottenville,Elementary School,67%,100%,NA,8.6,8.1,8.1,8.6
+31R002,I.S. R002 George L. Egbert,Middle School,62%,84%,96%,6.7,6.4,6.7,7.1
+31R003,P.S. 003 The Margaret Gioiosa School,Elementary School,81%,98%,NA,8.8,7.8,8.3,8.3
+31R004,P.S. 004 Maurice Wollin,Elementary School,84%,84%,NA,8.1,7.2,7.4,7.6
+31R005,P.S. 005 Huguenot,Elementary School,77%,100%,NA,9.5,8.9,9.1,9.3
+31R006,P.S. 6 Corporal Allan F. Kivlehan School,Elementary School,62%,92%,NA,8.6,7.6,8.1,8.2
+31R007,I.S. 007 Elias Bernstein,Middle School,85%,78%,98%,8.2,7.5,8.1,8.4
+31R008,P.S. 8 Shirlee Solomon,Elementary School,100%,100%,NA,9.3,9,9.1,9.2
+31R011,P.S. 11 Thomas Dongan School,Elementary School,63%,86%,NA,8.2,7,7.6,7.7
+31R014,P.S. 014 Cornelius Vanderbilt,Elementary School,52%,41%,NA,7.4,7.3,7.5,7.5
+31R016,P.S. 016 John J. Driscoll,Elementary School,56%,58%,NA,7.6,7,7.4,7.5
+31R018,P.S. 018 John G. Whittier,Elementary School,78%,67%,NA,7.7,7.2,7.4,7.3
+31R019,P.S. 019 The Curtis School,Elementary School,61%,98%,NA,8.1,7.1,7.3,7.7
+31R020,P.S. 020 Port Richmond,Elementary School,80%,95%,NA,8.3,7.9,8.1,8.1
+31R021,P.S. 21 Margaret Emery-Elm Park,Elementary School,90%,100%,NA,9.1,8.5,8.8,8.9
+31R022,P.S. 022 Graniteville,Elementary School,52%,93%,NA,8,6.9,7.3,7.6
+31R023,P.S. 023 Richmondtown,Elementary School,85%,84%,NA,8.9,8.3,8.5,8.8
+31R024,I.S. 024 Myra S. Barnes,Middle School,75%,81%,99%,7.6,7,7.4,7.8
+31R026,P.S. 026 The Carteret School,Elementary School,85%,100%,NA,9.2,8.7,8.7,8.9
+31R027,I.S. 027 Anning S. Prall,Middle School,69%,100%,98%,7.3,7,7.3,7.8
+31R029,P.S. 029 Bardwell,Elementary School,97%,89%,NA,9.2,8.9,9.1,9.2
+31R030,P.S. 030 Westerleigh,Elementary School,48%,69%,NA,8.1,6.4,7,7.3
+31R031,P.S. 031 William T. Davis,Elementary School,76%,82%,NA,8.7,8.1,8.3,8.5
+31R032,P.S. 032 The Gifford School,Elementary School,54%,74%,NA,7.7,7.4,7.6,7.8
+31R034,I.S. 034 Tottenville,Middle School,84%,100%,100%,8.2,7.3,7.8,8.2
+31R035,P.S. 35 The Clove Valley School,Elementary School,92%,95%,NA,8.9,8.1,8.3,8.6
+31R036,P.S. 036 J. C. Drumgoole,Elementary School,58%,76%,NA,7.8,6.4,7,7.2
+31R038,P.S. 038 George Cromwell,Elementary School,100%,65%,NA,8.5,6.8,7.2,7.5
+31R039,P.S. 39 Francis J. Murphy Jr.,Elementary School,56%,88%,NA,8.8,7.9,8.4,8.7
+31R041,P.S. 041 New Dorp,Elementary School,85%,72%,NA,7.8,6.9,7.2,7.4
+31R042,P.S. 042 Eltingville,Elementary School,69%,100%,NA,8.6,8.2,8.5,8.7
+31R044,P.S. 044 Thomas C. Brown,Elementary School,58%,62%,NA,7.8,7.6,7.8,7.9
+31R045,P.S. 045 John Tyler,Elementary School,56%,73%,NA,7.5,7.3,7.5,7.7
+31R046,P.S. 046 Albert V. Maniscalco,Elementary School,72%,96%,NA,8.5,8,8.1,8.5
+31R047,Csi High School For International Studies,High School,70%,97%,98%,7.8,7.2,7.2,7.7
+31R048,P.S. 048 William C. Wilcox,Elementary School,77%,83%,NA,9.1,8.5,8.8,8.9
+31R049,I.S. 49 Berta A. Dreyfus,Middle School,25%,82%,97%,6.6,6.3,6.8,7.3
+31R050,P.S. 050 Frank Hankinson,Elementary School,67%,81%,NA,8.4,7.2,7.6,8
+31R051,I.S. 051 Edwin Markham,Middle School,50%,94%,96%,7.2,7,7.5,7.9
+31R052,P.S. 052 John C. Thompson,Elementary School,61%,96%,NA,8.1,7.5,7.8,7.9
+31R053,P.S. 053 Bay Terrace,Elementary School,91%,96%,NA,9.1,8.5,8.8,8.9
+31R054,P.S. 054 Charles W. Leng,Elementary School,87%,63%,NA,8.2,7.9,7.9,8.1
+31R055,P.S. 055 Henry M. Boehm,Elementary School,92%,96%,NA,7.9,6.5,7.2,7.4
+31R056,P.S. 56 The Louis Desario School,Elementary School,91%,62%,NA,7.9,6.8,7.2,7.4
+31R057,P.S. 057 Hubert H. Humphrey,Elementary School,22%,55%,NA,7.9,7.5,7.8,7.7
+31R058,Space Shuttle Columbia School,Elementary School,100%,98%,NA,8.5,8,8.2,8.5
+31R060,P.S. 060 Alice Austen,Elementary School,71%,94%,NA,8.5,7.2,7.5,7.9
+31R061,I.S. 061 William A Morris,Middle School,51%,99%,90%,6.2,6.4,6.9,7.4
+31R063,Marsh Avenue School For Expeditionary Learning,Middle School,92%,100%,87%,8.7,8.2,8.6,8.7
+31R064,Gaynor Mccown Expeditionary Learning School,High School,53%,83%,96%,7.1,6.7,6.8,7.1
+31R065,P.S. 65 The Academy Of Innovative Learning,Elementary School,78%,90%,NA,8.8,9,8.9,9.2
+31R069,P.S. 069 Daniel D. Tompkins,Elementary School,96%,100%,NA,8.8,8.3,8.6,8.7
+31R072,I.S. 072 Rocco Laurie,Middle School,70%,100%,95%,7,7,7.2,7.8
+31R074,P.S. 74 Future Leaders Elementary School,Early Childhood School,77%,93%,NA,8.3,7.5,7.5,7.7
+31R075,I.S. 075 Frank D. Paulo,Middle School,81%,57%,94%,8,7.2,7.8,8.2
+31R080,The Michael J. Petrides School,Elementary/Middle/High School,37%,67%,96%,7.6,6.9,7.5,7.7
+31R440,New Dorp High School,High School,50%,97%,79%,6.9,7.1,7.3,7.6
+31R445,Port Richmond High School,High School,22%,76%,77%,7.1,6.9,7.2,7.5
+31R450,Curtis High School,High School,61%,94%,81%,6.7,6.7,7.3,7.6
+31R455,Tottenville High School,High School,25%,89%,84%,7.5,7.2,7.7,7.8
+31R460,Susan E. Wagner High School,High School,57%,97%,85%,7.2,7.2,7.5,7.7
+31R470,Concord High School,Transfer High School,42%,92%,65%,8.7,7.4,8,8.4
+31R600,Ralph R. Mckee Career And Technical Education High,High School,32%,96%,86%,7.1,6.7,7,7.4
+31R605,Staten Island Technical High School,High School,92%,98%,99%,8.6,7.9,8.3,8.7
+31R607,Staten Island Yabc,YABC,11%,100%,95%,8.2,7.4,8,8.1
+31R861,Staten Island School Of Civic Leadership,Elementary/Middle School,74%,90%,90%,8.5,8,8.3,8.8
+32K045,P.S. 045 Horace E. Greene,Elementary School,78%,93%,100%,8.2,7.7,8.4,8.7
+32K075,P.S. 075 Mayda Cortiella,Elementary School,78%,92%,NA,7.5,6.8,7.2,7.4
+32K086,P.S. 086 The Irvington,Elementary School,89%,94%,NA,8.6,8.1,8.5,8.6
+32K106,P.S. 106 Edward Everett Hale,Elementary School,71%,81%,NA,8.1,7.7,8,8.2
+32K116,P.S. 116 Elizabeth L Farrell,Elementary School,81%,79%,NA,8,7.5,7.7,7.7
+32K123,P.S. 123 Suydam,Elementary School,88%,100%,NA,8.1,7.4,7.7,7.8
+32K145,P.S. 145 Andrew Jackson,Elementary School,63%,100%,NA,8.2,7.3,7.5,7.6
+32K151,P.S. 151 Lyndon B. Johnson,Elementary School,76%,85%,NA,8,6.9,7.2,7.5
+32K162,J.H.S. 162 The Willoughby,Middle School,41%,91%,91%,6.8,6.4,6.6,7
+32K168,The Brooklyn School For Math And Research,High School,75%,100%,95%,8,7.4,7.8,8.2
+32K274,P.S. 274 Kosciusko,Elementary School,66%,98%,NA,9,8.3,8.6,8.7
+32K291,J.H.S. 291 Roland Hayes,Middle School,46%,94%,81%,6.5,6.8,7,7.4
+32K296,I.S. 296 - The Anna Gonzalez Community School,Middle School,2%,95%,56%,5.4,5.9,6.1,6.6
+32K299,P.S. 299 Thomas Warren Field,Elementary School,100%,94%,NA,8.3,8,8.2,8.2
+32K347,I.S. 347 School Of Humanities,Middle School,40%,74%,86%,7,6.6,7.1,7.5
+32K349,"I.S. 349 Math, Science & Tech.",Middle School,48%,95%,79%,7.4,6.8,7.2,7.7
+32K376,P.S. 376,Elementary School,99%,93%,NA,8.4,7.4,7.7,7.9
+32K377,P.S. 377 Alejandrina B. De Gautier,Elementary/Middle School,39%,69%,94%,6.4,6.4,6.6,7.2
+32K383,J.H.S. 383 Philippa Schuyler,Middle School,42%,40%,96%,7.4,6.6,7.1,7.5
+32K384,P.S. /I.S. 384 Frances E. Carter,Elementary/Middle School,88%,100%,98%,8.1,7.6,8.1,8.3
+32K403,Academy For Environmental Leadership,High School,47%,92%,92%,7.3,6.7,7.2,7.6
+32K545,Ebc High School For Public Service–Bushwick,High School,53%,86%,80%,7.9,7.3,7.5,7.9
+32K549,Bushwick School For Social Justice,High School,43%,83%,73%,7.4,7.5,7.6,8
+32K552,Academy Of Urban Planning,High School,28%,51%,53%,6.7,6,6.4,6.8
+32K554,All City Leadership Secondary School,Middle/High School,46%,100%,80%,9.5,8.6,9.1,9.2
+32K556,Bushwick Leaders High School For Academic Excellen,High School,33%,69%,74%,7,6.6,7,7.3
+32K564,Bushwick Community High School,Transfer High School,40%,96%,64%,8.7,7.4,8.2,8.2
+84K355,Williamsburg Collegiate Charter School,Middle School,73%,96%,98%,8.8,8.2,8.6,9.2
+84K356,Achievement First Crown Heights Charter School,Elementary/Middle School,7%,29%,96%,7.7,7,7.2,8
+84K357,Kipp Amp Charter School,Middle School,32%,100%,94%,7.3,7.1,6.9,7.7
+84K358,Achievement First East New York Charter School,Elementary/Middle School,43%,69%,83%,7.5,7,7.2,8
+84K359,The Uft Charter School,Elementary/Middle/High School,36%,13%,83%,6.9,6.7,6.8,7.3
+84K362,Hellenic Classical Charter School,Elementary/Middle School,73%,100%,95%,8.2,8.2,8.6,8.8
+84K367,Success Academy Bed- Stuy 1,Early Childhood School,97%,100%,NA,9,8.7,8.1,8.8
+84K379,Explore Excel Charter School,Early Childhood School,73%,95%,NA,8.1,8.1,7.6,8.1
+84K386,Invictus Preparatory Charter School,Middle School,18%,27%,NA,8.4,8,7.3,8
+84K406,Teaching Firms Of America-Professional Preparatory,Early Childhood School,83%,71%,NA,9.3,8.5,8.8,9
+84K473,Williamsburg Charter High School,High School,33%,98%,89%,7.7,6.5,7.2,7.5
+84K508,Achievement First Endeavor Charter School,Elementary/Middle School,64%,93%,97%,8.1,7.5,7.2,8.3
+84K517,Leadership Prep Bedford Stuyvesant Charter School,Elementary School,47%,91%,100%,8.3,7.9,8.2,8.9
+84K536,Community Roots Charter School,Elementary School,73%,100%,NA,8.9,9,9.1,9.1
+84K538,Achievement First Bushwick Charter School,Elementary/Middle School,39%,47%,92%,8.3,7.6,7.7,8.4
+84K593,Excellence Boys Charter School Of Bedford Stuyvesa,Elementary/Middle School,46%,100%,100%,7.9,7.4,7.3,8.4
+84K608,Kings Collegiate Charter School,Middle School,78%,96%,96%,7.7,7.6,7.4,8.3
+84K626,Achievement First Brownsville Charter School,Elementary School,49%,92%,NA,8.5,7.9,7.7,8.4
+84K648,Bedford Stuyvesant Collegiate Charter School,Middle School,46%,96%,100%,8.6,8.3,8.5,9
+84K649,La Cima Charter School,Elementary School,99%,100%,NA,8.2,7.6,7.4,7.7
+84K651,Pave Academy Charter School,Elementary School,81%,95%,NA,8.7,7.9,7.8,8.5
+84K652,Brooklyn Ascend Charter School,Elementary School,66%,80%,NA,8.4,7.7,7.5,8.1
+84K693,Believe Northside Charter High School,High School,24%,100%,97%,7.9,7.6,7.8,8.2
+84K694,Believe Southside Charter High School,High School,6%,26%,39%,6.3,6.5,6.2,7
+84K701,Brooklyn Charter School,Elementary School,64%,94%,NA,8.6,8.3,8.1,8.4
+84K702,Community Partnership Charter School,Elementary/Middle School,68%,100%,97%,7.3,7.4,7.4,7.8
+84K703,Beginning With Children Charter School,Elementary/Middle School,70%,74%,89%,7.4,6.8,7,7.4
+84K704,Explore Charter School,Elementary/Middle School,68%,100%,96%,7.6,7.2,7.1,7.8
+84K707,Brooklyn Prospect Charter School,Middle School,63%,85%,95%,8.2,7.8,8,8.4
+84K710,Brownsville Collegiate Charter School,Middle School,64%,95%,95%,8.1,7.8,8.1,8.6
+84K711,Leadership Preparatory Brownsville Charter School,Early Childhood School,57%,96%,NA,9.1,9,8.8,9.2
+84K712,Excellence Girls Charter School,Early Childhood School,76%,100%,NA,9.3,8.8,8.7,9.1
+84K726,Fahari Academy Charter School,Middle School,79%,92%,79%,7.2,6.8,6.7,7.1
+84K730,Summit Academy Charter School,Middle School,27%,77%,52%,7.5,6.9,7.1,7.6
+84K731,Brooklyn Excelsior Charter,Elementary/Middle School,25%,81%,95%,6.8,6.5,6.7,7.2
+84K734,The Ethical Community Charter School (Teccs),Early Childhood School,59%,40%,NA,8.1,8,7.9,8.1
+84K737,Brownsville Ascend Charter School,Early Childhood School,83%,96%,NA,8.3,7.9,7.9,8.2
+84K740,Brooklyn Scholars Charter School,Elementary School,23%,16%,100%,7.5,6.8,7.1,8
+84K742,Explore Empower Charter School,Elementary School,88%,100%,NA,8.4,8.1,7.7,8.1
+84K744,Coney Island Preparatory Public Charter School,Middle School,88%,100%,99%,8.3,7.7,8,8.7
+84K746,Hebrew Language Academy Charter School,Early Childhood School,81%,78%,NA,7.4,6.7,6.9,7
+84K769,Hyde Leadership Charter School- Brooklyn,Early Childhood School,60%,61%,NA,8,7.9,7.8,7.7
+84K774,Achievement First Apollo Charter School,Early Childhood School,26%,64%,NA,8.2,7.4,7.4,8.1
+84K775,Leadership Preparatory Ocean Hill Charter School,Early Childhood School,60%,100%,NA,9.1,8.8,8.7,9.2
+84K777,Ocean Hill Collegiate Charter School,Middle School,80%,92%,92%,8.9,8,8.4,9.1
+84K780,Brooklyn East Collegiate Charter School,Middle School,89%,92%,93%,8.7,8.3,8.6,9.1
+84K782,Bedford Stuyvesant New Beginnings Charter School,Elementary School,82%,96%,NA,8.6,8.4,8.2,8.3
+84K785,Imagine Me Leadership Charter School,Early Childhood School,64%,32%,NA,8.2,7.4,7.3,7.2
+84K791,Brooklyn Dreams Charter School,Elementary School,20%,13%,NA,8.8,8.2,8.3,8.2
+84K792,The Cultural Arts Academy At Spring Creek Charter,Early Childhood School,58%,100%,NA,8.2,8,8.1,8.4
+84K793,Bushwick Ascend Charter School,Early Childhood School,61%,67%,NA,8.3,7.4,7.1,7.5
+84K796,Lefferts Gardens Charter School,Early Childhood School,86%,100%,NA,7.7,7.2,7.2,7.2
+84X538,Icahn Charter School 5,Early Childhood School,85%,100%,NA,9.1,8.7,8.7,9.1
+84K797,New Hope Academy Charter School,Early Childhood School,81%,52%,NA,8.2,7.4,7.7,7.8
+84K888,Achievement First Charter High School,High School,27%,56%,89%,8.5,7.6,7.6,8.6
+84K999,Uncommon Charter High School,High School,55%,100%,99%,8.9,8.1,8.2,9
+84M279,The Opportunity Charter School,Middle/High School,46%,63%,79%,6.2,6.3,6.3,6.4
+84M284,Harlem Children'S Zone Promise Academy Charter Sch,Elementary/Middle/High School,69%,97%,90%,7.6,7.4,7.4,7.9
+84M320,Manhattan Charter School,Elementary School,89%,97%,NA,8.6,7.7,7.9,8.1
+84M329,Harlem Link Charter School,Elementary School,52%,61%,NA,8,7.5,7.2,7.7
+84M330,Girls Preparatory Charter School Of New York,Elementary/Middle School,88%,100%,100%,7.7,7.4,7.3,7.9
+84M335,Harlem Village Academy Leadership Charter School,Middle School,71%,100%,87%,8.7,8,8.2,8.7
+84M336,Kipp Infinity Charter School,Elementary/Middle School,59%,71%,88%,8.2,7.9,8,8.5
+84M337,New York Center For Autism Charter School,Elementary School,88%,97%,NA,9.3,9.1,9.1,9.1
+84M341,Harlem Children'S Zone Promise Academy Ii,Elementary/Middle School,94%,96%,100%,6.9,6.7,7.1,7.7
+84M350,Democracy Preparatory Charter School,Middle/High School,72%,100%,91%,7.9,7.5,7.5,8.2
+84M351,Harlem Success Academy 1 Charter School,Elementary School,100%,100%,100%,7.8,7.4,7.6,8.3
+84M353,New Heights Academy Charter School,Middle/High School,63%,100%,94%,7.3,6.7,7,7.5
+84M382,Dream Charter School,Elementary School,91%,100%,NA,8.5,8.3,8.2,8.4
+84M384,Harlem Success Academy 2 Charter School,Elementary School,79%,100%,NA,8,7.9,7.7,8.2
+84M385,Harlem Success Academy 3 Charter School,Elementary School,90%,83%,NA,7.6,7,7,7.7
+84M386,Harlem Success Academy 4 Charter School,Elementary School,92%,100%,NA,8.2,8.1,7.7,8.5
+84M388,St. Hope Leadership Academy Charter School,Middle School,97%,100%,98%,8.5,8,8.2,8.6
+84M430,The Equity Project Charter School (Tep),Middle School,95%,100%,97%,8,7.6,8.1,8.3
+84M433,The Renaissance Charter High School For Innovation,High School,42%,95%,82%,7.1,6.8,7,7.2
+84M478,Inwood Academy For Leadership Charter School,Middle School,88%,100%,98%,8.4,7.5,8.3,8.5
+84M481,Democracy Preparatory Harlem Charter School,Middle School,70%,100%,96%,8.1,7.7,7.6,8.5
+84M482,Harlem Success Academy Charter School 5,Early Childhood School,98%,100%,NA,8.4,7.8,7.8,8.5
+84M483,New York French American Charter School,Early Childhood School,50%,62%,NA,7.1,6.4,5.9,6.1
+84M518,East Harlem Scholars Academy Charter School,Early Childhood School,90%,100%,NA,8.8,8.4,8.5,8.9
+84M522,Broome Street Academy Charter High School,High School,16%,80%,49%,6.9,6.8,7.2,7
+84M523,Upper West Success Academy Charter School,Early Childhood School,98%,100%,NA,8.9,8.7,8.4,9
+84M524,Innovate Manhattan Charter School,Middle School,38%,60%,85%,6.5,6.1,6.3,6.5
+84M702,Sisulu-Walker Charter School Of Harlem,Elementary School,80%,69%,NA,7.6,7.1,7.4,7.2
+84M704,Harbor Science And Arts Charter School,Elementary/Middle School,36%,88%,99%,8.6,7.9,8.2,8.5
+84M705,Amber Charter School,Elementary School,77%,100%,NA,8.7,7.9,8.1,8.3
+84M707,John V. Lindsay Wildcat Academy Charter School,Transfer High School,45%,73%,41%,7.7,6.8,7.4,7.6
+84M708,Harlem Prep Charter School,Elementary School,75%,100%,NA,8.6,7.7,7.6,8.3
+84M709,Harlem Village Academy Charter School,Middle School,93%,96%,98%,8.2,7.3,7.7,8.3
+84M726,Kipp S.T.A.R. Charter School,Elementary/Middle School,39%,13%,93%,7.6,7.3,7.4,8
+84M861,Future Leaders Institute Charter School,Elementary/Middle School,28%,88%,97%,7.3,7.3,7.2,7.7
+84M888,Harlem Village Academy High School,High School,78%,53%,92%,8.2,7.3,7.6,8.4
+84M999,KIPP College Prep NYC,High School,58%,79%,94%,7.8,7.2,7.5,8.1
+84Q170,Peninsula Preparatory Academy Charter School,Elementary School,100%,96%,NA,8.7,8.5,8.6,8.8
+84Q304,Voice Charter School Of New York,Elementary School,67%,58%,NA,8.5,8.1,8.2,8.4
+84Q321,Growing Up Green Charter School,Early Childhood School,44%,92%,NA,8.8,8.3,8.4,8.5
+84Q340,Challenge Preparatory Charter School,Early Childhood School,76%,100%,NA,8.4,8.3,8.3,8.4
+84Q341,Riverton Street Charter School,Elementary School,84%,100%,NA,9.4,9.2,9.1,9.3
+84Q342,The Rochdale Early Advantage Charter School,Early Childhood School,88%,88%,NA,8.6,7.9,7.9,8.3
+84Q359,Academy Of The City Charter School,Early Childhood School,39%,62%,NA,7.4,6.1,6.5,6.3
+84Q704,Merrick Academy - Queens Public Charter School,Elementary School,34%,82%,100%,7.8,7.4,7.7,8.1
+84Q705,"Renaissance Charter School, The",Elementary/Middle/High School,64%,87%,99%,7.5,6.6,7.2,7.3
+84Q706,Our World Neighborhood Charter School,Elementary/Middle School,36%,56%,99%,7.9,7.1,7.5,7.9
+84R067,John W. Lavelle Preparatory Charter School,Middle School,92%,100%,99%,8.1,7.9,8.1,8.5
+84R071,Staten Island Community Charter School,Early Childhood School,70%,94%,NA,8.2,7.5,8.1,8
+84R073,New World Preparatory Charter School,Middle School,52%,93%,93%,7.1,6.9,7.4,7.7
+84X165,Grand Concourse Charter School,Elementary School,89%,100%,NA,8.8,8.4,8.4,8.6
+84X185,Bronx Lighthouse Charter School,Elementary/Middle/High School,45%,86%,94%,7.3,7,6.8,7.3
+84X255,Bronx Charter School For Excellence,Elementary/Middle School,65%,100%,99%,8.4,7.9,8,8.6
+84X309,South Bronx Charter School For International Cultu,Elementary School,90%,100%,NA,8.7,8.4,8.4,8.7
+84X345,Hyde Leadership Charter School,Elementary/Middle/High School,72%,96%,95%,7.6,7,7.3,7.6
+84X346,South Bronx Classical Charter School,Elementary School,100%,100%,NA,8.4,7.9,7.6,8.3
+84X347,International Leadership Charter School,High School,26%,81%,84%,7.7,6.7,6.8,7.5
+84X378,Icahn Charter School 2,Elementary School,66%,100%,0%,9.2,8.7,8.3,9.1
+84X389,Bronx Global Learning Institute For Girls Charter,Elementary School,78%,100%,NA,8.4,7.7,7.9,8.1
+84X393,Green Dot New York Charter School,High School,56%,97%,95%,7.9,7.3,7.5,8
+84X394,Mott Haven Academy Charter School,Elementary School,78%,100%,NA,8.3,7.7,8,7.9
+84X395,"Nyc Charter High School For Architecture, Engineer",High School,56%,94%,96%,7.3,6.1,6.4,6.9
+84X398,Bronx Community Charter School,Elementary School,83%,96%,NA,8.5,8.2,8.6,8.4
+84X407,Bronx Charter School For Children,Elementary School,39%,68%,NA,8.4,7.4,7.2,7.4
+84X419,Bronx Academy Of Promise Charter School,Elementary School,76%,97%,NA,9.1,8.7,8.7,8.7
+84X422,Icahn Charter School 3,Elementary School,57%,91%,NA,7.9,8.1,7.9,8.5
+84X461,Metropolitan Lighthouse Charter School,Early Childhood School,56%,100%,NA,7.6,7.6,7.6,7.8
+84X482,Dr. Richard Izquierdo Health And Science Charter S,Middle School,76%,56%,95%,7.3,6.7,7.1,7.4
+84X487,Girls Preparatory Charter School Of The Bronx,Early Childhood School,81%,100%,NA,9.2,8.7,8.7,9.1
+84X488,The Equality Charter School,Middle School,81%,89%,100%,8.3,8.1,8.2,8.7
+84X491,Academic Leadership Charter School,Early Childhood School,92%,100%,NA,8.8,8.5,8.5,8.9
+84X493,Bronx Success Academy Charter School 1,Early Childhood School,96%,100%,NA,8.7,8.5,8.3,9
+84X494,Bronx Success Academy Charter School 2,Early Childhood School,97%,95%,NA,9.2,8.4,8.8,9.2
+84X496,Icahn Charter School 4,Elementary School,85%,93%,NA,9.1,8.8,8.6,9.2
+84X539,The New Visions Charter High School For Advanced M,High School,57%,42%,78%,7.2,7.4,7.2,7.7
+84X553,The New Visions Charter High School For The Humani,High School,63%,100%,76%,7.1,7.1,7.2,7.6
+84X554,New York City Montessori Charter School,Early Childhood School,54%,100%,NA,8,7.9,7.9,8.1
+84X703,Bronx Preparatory Charter School,Middle/High School,27%,78%,79%,7.4,6.5,7.1,7.2
+84X704,Kipp Academy Charter School,Elementary/Middle School,62%,55%,97%,8.4,7.8,7.9,8.6
+84X705,Family Life Academy Charter School,Elementary/Middle School,100%,97%,100%,8.2,7.8,8,8.5
+84X706,Harriet Tubman Charter School,Elementary/Middle School,83%,100%,92%,7.6,7.2,7.4,7.9
+84X717,Icahn Charter School,Elementary/Middle School,61%,100%,99%,8.3,8,8.2,8.8
+84X718,Bronx Charter School For Better Learning,Elementary School,67%,89%,NA,8.7,8.1,8,8.2
+84X730,Bronx Charter School For The Arts,Elementary School,73%,82%,NA,8.1,7.3,7.6,7.6
+84M481,Democracy Preparatory Harlem Charter School,Middle School,70%,100%,96%,8.1,7.7,7.6,8.5
+84M482,Harlem Success Academy Charter School 5,Early Childhood School,98%,100%,NA,8.4,7.8,7.8,8.5
+84M483,New York French American Charter School,Early Childhood School,50%,62%,NA,7.1,6.4,5.9,6.1
